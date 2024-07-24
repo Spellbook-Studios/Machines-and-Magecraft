@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "00a36c775ddcdbe1be447315b337cba5960778d9c0a13b40d22e012f6f069446"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
+metafile = true
