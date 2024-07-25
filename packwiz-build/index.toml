@@ -30,11 +30,11 @@ hash = "b74f43ce4f1cfaf0c6ce586d2b5129953e2e107d65ec0f20de4e96ddd58af597"
 
 [[files]]
 file = "config/fancymenu/customization/mm_main_menu.txt"
-hash = "df6508437ca0379a26f6b4e3d517642777a3c850b43fe9a25b689d3128f49662"
+hash = "48272cf935cbe01c08bbb57c2df6f08fd362b7e72e3cad8ad95f0eb18cafeeae"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "3610ba270e3f39cceea57423b8d5cd05542efd2d1ef92461ef67ab4b720f6da4"
+hash = "4bdbdb694ab50f888efa24f0ef76c2fe5dc457657f2ebc5531724f74430bb005"
 
 [[files]]
 file = "config/fancymenu/slideshows/mainmenu/images/machines-n-magecraft.png"
