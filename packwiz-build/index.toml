@@ -52,3 +52,13 @@ metafile = true
 file = "mods/rubidium-extra.pw.toml"
 hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
 metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "a719d6fcc4a2eacbff8f2d0f0fde986325971dc080df74eb308ed468faba0e88"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
+metafile = true

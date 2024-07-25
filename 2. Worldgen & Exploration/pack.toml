@@ -1,4 +1,4 @@
-name = "Machines & Magecraft"
+name = "Layer"
 author = "Sebsa"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b1c6179ab4dfe9e23318d9e3e90a79a9956500d2490b9528a512b572bf3c340b"
+hash = "a7627a2458cd4823023556f917100412e2a94b79f1bbb0d2fac32b3399128e94"
 
 [versions]
 minecraft = "1.20.1"
