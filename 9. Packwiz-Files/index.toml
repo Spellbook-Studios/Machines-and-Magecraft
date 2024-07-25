@@ -1,0 +1,19 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "09363a36655b19cbb131bc08627a92806ae746d5a30c15a351aad7a206ff7997"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "1463cd864f2872f8973831895a308d499fba5e69fd8bff886125422304ab454d"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "1e507fa25df4003a3c4531101597ea91f451c00dc0fb46aacd892e0f573cc00e"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "538175a55f94d7e3ecbb7eb236eaab076fd7cbeff9da20647833b77700c40736"
+metafile = true

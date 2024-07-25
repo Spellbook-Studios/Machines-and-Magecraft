@@ -1,0 +1,13 @@
+name = "Machines & Magecraft"
+author = "Sebsa"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bab1888327a7b83ae1ac7f66c1fc53285da2cfd52996c5135023b98a0cbab0a4"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

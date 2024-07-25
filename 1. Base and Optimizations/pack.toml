@@ -1,0 +1,13 @@
+name = "Layer"
+author = "Sebsa"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4226e4ff6207416a890619e3f63a17ee6861973732e51b346361fb32dc01d0f1"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
