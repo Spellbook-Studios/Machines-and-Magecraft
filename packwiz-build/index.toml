@@ -90,6 +90,11 @@ hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "75f085526d31557ee2f5f3d8d449c92a1e354775c4c6b50f140caf559f7afe0a"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -112,6 +117,16 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "0d48dec6e4adc2e7d683208cac4298bc22979fc8a354ae560cf10870e9a86d38"
 metafile = true
 
 [[files]]
