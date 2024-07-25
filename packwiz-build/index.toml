@@ -13,8 +13,18 @@ file = "defaultconfigs/oculus.properties"
 hash = "9d632b311f61bcf025665ccdf5c2cf6aeb586d3f79cf67a0ad94a62167f2bd98"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "00a36c775ddcdbe1be447315b337cba5960778d9c0a13b40d22e012f6f069446"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "82cd10f066c07d118ea50c9b7a16496448ce519e687dd25b4cddd4a0f105057e"
 metafile = true
 
 [[files]]
@@ -33,6 +43,11 @@ hash = "d5dbd5e742871cbe5217ea21879a29b96a82895438e7406beedd0f71137b5838"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "b55c4c69cc3c66e706a17eda129c588ef848de6f87ad1fb9e43e91cb6a946990"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
@@ -48,8 +63,23 @@ hash = "d04d9968d5ba0ad145c2fea6d366df09f0a5b7e1b142d4182e5d38d47e6c2479"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "84e3d8b611426891356e627e2ac68b2cbcf199a4c76f34b6528a7899a8b35c7e"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b4f221a6dc89a622879a17d581a9af71d3c83382765e3999e26d023de19cf211"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
 
 [[files]]
@@ -65,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
 metafile = true
 
 [[files]]
