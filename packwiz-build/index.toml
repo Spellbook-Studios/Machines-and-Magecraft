@@ -9,6 +9,10 @@ file = "config/defaultoptions/options.txt"
 hash = "0c13437b2755817652cabd77bf154686d86c95c9304a3bed4a998bc9992fd0a7"
 
 [[files]]
+file = "config/fancymenu/assets/machines_magecraft_title_no_bg.png"
+hash = "63e9b532a172d80386ec492b5464a5dadb2345f14363fceb3eae2476368c2abd"
+
+[[files]]
 file = "config/fancymenu/assets/window_icon.icns"
 hash = "de0374a7beee81620a703253d900698c08f7c4dcefc19b5b06d432141dfee0fd"
 
@@ -21,8 +25,16 @@ file = "config/fancymenu/assets/window_icon_32.png"
 hash = "ef6d7bdaa7478cbcdbfc3b7ccfa45f9fa31bcd53fb863c471dbb017afb6d32d4"
 
 [[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "b74f43ce4f1cfaf0c6ce586d2b5129953e2e107d65ec0f20de4e96ddd58af597"
+
+[[files]]
+file = "config/fancymenu/customization/mm_main_menu.txt"
+hash = "e77ffca74e0aee667c42db3f548e0c1f2fc8bcaf8b9d4bd9a4f78b5bae312db5"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "e0d5d871b386e439af573a1236d2efbcff8b248633849a1a400fe58a4b4b533d"
+hash = "3610ba270e3f39cceea57423b8d5cd05542efd2d1ef92461ef67ab4b720f6da4"
 
 [[files]]
 file = "defaultconfigs/oculus.properties"
