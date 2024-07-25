@@ -49,10 +49,6 @@ file = "config/fancymenu/slideshows/mainmenu/properties.txt"
 hash = "bdcad0f584f5a3899bdd635dde3473d9d00235a175ac9fc3d75ff90c25740df5"
 
 [[files]]
-file = "config/fml.toml"
-hash = "6f866fa7b8d9e2a2e449a46b78ae649e1d0e74c5b8d3e02b7c8460cdfce7d2de"
-
-[[files]]
 file = "defaultconfigs/oculus.properties"
 hash = "9d632b311f61bcf025665ccdf5c2cf6aeb586d3f79cf67a0ad94a62167f2bd98"
 
