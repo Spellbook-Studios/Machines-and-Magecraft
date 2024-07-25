@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "defaultconfigs/oculus.properties"
+hash = "9d632b311f61bcf025665ccdf5c2cf6aeb586d3f79cf67a0ad94a62167f2bd98"
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true

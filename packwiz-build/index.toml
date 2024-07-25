@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
-hash = "09363a36655b19cbb131bc08627a92806ae746d5a30c15a351aad7a206ff7997"
+hash = "f7b6947805559511a423f8ef9fe8b64051440cd545c7bcbc82cc862365c52657"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "1463cd864f2872f8973831895a308d499fba5e69fd8bff886125422304ab454d"
+hash = "0c13437b2755817652cabd77bf154686d86c95c9304a3bed4a998bc9992fd0a7"
+
+[[files]]
+file = "defaultconfigs/oculus.properties"
+hash = "9d632b311f61bcf025665ccdf5c2cf6aeb586d3f79cf67a0ad94a62167f2bd98"
 
 [[files]]
 file = "mods/balm.pw.toml"
