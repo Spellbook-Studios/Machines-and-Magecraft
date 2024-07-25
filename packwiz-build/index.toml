@@ -18,6 +18,11 @@ hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "00a36c775ddcdbe1be447315b337cba5960778d9c0a13b40d22e012f6f069446"
 metafile = true
@@ -43,8 +48,18 @@ hash = "d5dbd5e742871cbe5217ea21879a29b96a82895438e7406beedd0f71137b5838"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "97a06e0cdf6afede0564722397b87cbc584c37fce87595e84a1e4474f755519f"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "b55c4c69cc3c66e706a17eda129c588ef848de6f87ad1fb9e43e91cb6a946990"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
 metafile = true
 
 [[files]]
