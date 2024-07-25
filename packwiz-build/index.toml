@@ -46,7 +46,7 @@ hash = "12194279d85eca1c110c4e5ee1be31dcfc1fd33df134f497a4dd7e18e20d7898"
 
 [[files]]
 file = "config/fancymenu/slideshows/mainmenu/properties.txt"
-hash = "52a8e76fa0436dee8558b868f226f1f3edb2ddf65b6bc59e71c0be5afc2081cb"
+hash = "bdcad0f584f5a3899bdd635dde3473d9d00235a175ac9fc3d75ff90c25740df5"
 
 [[files]]
 file = "defaultconfigs/oculus.properties"
@@ -63,6 +63,10 @@ hash = "a9bbf22917d1e31f2020d7526748a6582781fce70c1e0a32281b6f2c37178a0b"
 [[files]]
 file = "journeymap/server/5.9/journeymap.server.default.config"
 hash = "7d95003e3d478b23b60d65523bf711f71ee1833720e74a46196cd1c08bfa37c6"
+
+[[files]]
+file = "modlist.txt"
+hash = "147f6399699210ef8d24c02f84fd2bda1dba8a39e37464eb67b7f36a6d53e1f8"
 
 [[files]]
 file = "mods/appleskin.pw.toml"

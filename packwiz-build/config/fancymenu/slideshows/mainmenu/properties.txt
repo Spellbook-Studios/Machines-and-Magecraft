@@ -1,4 +1,4 @@
-e:\Minecraft\PrismLauncher\instances\SS - Machines & Magecraft\.minecraft\screenshots\2024-07-25_15.34.51.pngtype = slideshow
+type = slideshow
 
 slideshow-meta {
    name = screenshots

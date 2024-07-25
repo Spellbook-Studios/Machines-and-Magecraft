@@ -1,6 +1,7 @@
 import os
 import utils
 import shutil
+import filecmp
 
 if __name__ == "__main__":
     known_layers = ["1. Base and Optimizations/", "2. Visuals/", "3. Worldgen & Exploration/", "8. QOL/", "9. Packwiz-Files/"]
@@ -9,12 +10,11 @@ if __name__ == "__main__":
     # Find all the files we want to add
     found_files: dict[str, utils.FoundFile] = {}
     for layer_path in known_layers:
+        print("Adding layer: " + layer_path)
         for file in utils.list_files_in_dir(layer_path):
             if not file.name in found_files.keys():
-                print("Found new file: " + file.name + " (" + file.path + ")")
                 found_files[file.name] = file
             else:
-                print("Overwritting file: " + file.name + " (" + file.path + ")")
                 found_files[file.name] = file
     
     # Read build cache
@@ -24,23 +24,29 @@ if __name__ == "__main__":
         build_cache[cached_file.name] = cached_file
 
     # Now, replace / add the files
-    print("Copying files to build directory")
+    print("Creatinb build dir:")
     for file in found_files.values():
         if file.name in build_cache.keys():
-            print("Updating file: " + file.name)
+            if(filecmp.cmp(file.path, build_cache[file.name].path, shallow=True)):
+                build_cache.pop(file.name)
+                continue
+
+            print(" Updating file: " + file.name)
             os.remove(build_cache[file.name].path)
             shutil.copy(file.path, build_cache[file.name].path)
             build_cache.pop(file.name)
         else:
-            print("Adding file: " + file.name)
+            print(" Adding file: " + file.name)
             out_path = build_dir_path + file.name
             os.makedirs(os.path.dirname(out_path), exist_ok=True)
             shutil.copy(file.path, out_path)
 
     # Remove old cached files
     for old_cached_file in build_cache.values():
-        print("Removing file: " + old_cached_file.name)
+        if old_cached_file.name == "modlist.txt": continue
+        print(" Removing file: " + old_cached_file.name)
         os.remove(old_cached_file.path)
 
     os.system("cd packwiz-build && packwiz refresh")
     os.system("cd packwiz-build && packwiz list -v > modlist.txt")
+    os.system("cd packwiz-build && packwiz refresh")
