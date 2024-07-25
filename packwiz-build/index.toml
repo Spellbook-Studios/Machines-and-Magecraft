@@ -9,8 +9,8 @@ file = "config/defaultoptions/options.txt"
 hash = "0c13437b2755817652cabd77bf154686d86c95c9304a3bed4a998bc9992fd0a7"
 
 [[files]]
-file = "config/fancymenu/assets/window_icon.png"
-hash = "d2c5038145a961c7f61e304591da308f47c835826756574bdf8de2e9dc95cd1a"
+file = "config/fancymenu/assets/window_icon.icns"
+hash = "de0374a7beee81620a703253d900698c08f7c4dcefc19b5b06d432141dfee0fd"
 
 [[files]]
 file = "config/fancymenu/assets/window_icon_16.png"
@@ -22,7 +22,7 @@ hash = "ef6d7bdaa7478cbcdbfc3b7ccfa45f9fa31bcd53fb863c471dbb017afb6d32d4"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "ee896626c792fbdd3ae86ecbc5427d9af1233d8c296909d8bd30b1e736e69ef3"
+hash = "e0d5d871b386e439af573a1236d2efbcff8b248633849a1a400fe58a4b4b533d"
 
 [[files]]
 file = "defaultconfigs/oculus.properties"
