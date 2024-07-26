@@ -34,7 +34,7 @@ hash = "706e9a290ed1559447d9dd344b55cc70afadf46e2ff944207ac6c74bb3d1bfcd"
 
 [[files]]
 file = "config/fancymenu/customization/mm_main_menu.txt"
-hash = "48272cf935cbe01c08bbb57c2df6f08fd362b7e72e3cad8ad95f0eb18cafeeae"
+hash = "19ed82a8e8189ab45607df5712b9cb4342caf65ef6644d88cd1cf834901c4ae0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
