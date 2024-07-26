@@ -90,7 +90,7 @@ hash = "7d95003e3d478b23b60d65523bf711f71ee1833720e74a46196cd1c08bfa37c6"
 
 [[files]]
 file = "modlist.txt"
-hash = "f412e1038710fe6d46fd03b5f07f880c9170164cc3140ede4d685de6edcdbb04"
+hash = "ad7b8030b5319f9ccbef6075aebf3a69dff2a6914825e412cb901e6171695838"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -120,6 +120,16 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "82cd10f066c07d118ea50c9b7a16496448ce519e687dd25b4cddd4a0f105057e"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
@@ -175,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d04d9968d5ba0ad145c2fea6d366df09f0a5b7e1b142d4182e5d38d47e6c2479"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "fe5aef6fdb17f75035a21bab5237af591aaf36c8a03b4b947d64507ce49c71be"
 metafile = true
 
 [[files]]

@@ -4,7 +4,7 @@ import shutil
 import filecmp
 
 if __name__ == "__main__":
-    known_layers = ["1. Base and Optimizations/", "2. Visuals/", "3. Worldgen & Exploration/", "8. QOL/", "9. Packwiz-Files/"]
+    known_layers = ["1. Base and Optimizations/", "2. Visuals/", "3. Worldgen & Exploration/", "4. Technology/", "8. QOL/", "9. Packwiz-Files/"]
     build_dir_path = "packwiz-build/"
 
     # Find all the files we want to add

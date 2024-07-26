@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/create-structures.pw.toml"
+hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "a719d6fcc4a2eacbff8f2d0f0fde986325971dc080df74eb308ed468faba0e88"
 metafile = true
