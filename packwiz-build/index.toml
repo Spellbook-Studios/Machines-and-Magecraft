@@ -162,7 +162,7 @@ hash = "bd42f4a416b1bc345b79a2b3071f3c69e778b5da9404bbd1742607933e816fe0"
 
 [[files]]
 file = "kubejs/data/sophisticatedbackpacks/recipes/backpack.json"
-hash = "0acb18db14786c8c4d6c8f2e054e248abe75f104c43105ebae3a6416c756c6a9"
+hash = "d793027e067c1b388d4d2954a6192367a64b1422b9ddd319c24edfe2e18a2b5a"
 
 [[files]]
 file = "kubejs/data/sophisticatedbackpacks/recipes/copper_backpack.json"
@@ -194,7 +194,7 @@ hash = "034b1fbb5d968772f357e5c8f5fa8c269f09108638e5c245b170384b2b8a0a71"
 
 [[files]]
 file = "kubejs/startup_scripts/src/tanned_leather.js"
-hash = "c521ff9752923a96e01162f56497bb8bca0f078f3a6f00b6300f7b3c63b4515d"
+hash = "18b74199a78860cfabef9e4359bea5c0450b956d3e743eb804ec8e1bb9906bcc"
 
 [[files]]
 file = "modlist.txt"
