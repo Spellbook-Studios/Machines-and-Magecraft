@@ -90,7 +90,7 @@ hash = "7d95003e3d478b23b60d65523bf711f71ee1833720e74a46196cd1c08bfa37c6"
 
 [[files]]
 file = "modlist.txt"
-hash = "0d024692e9f2a1c7658406d3237a7979c2932eb389a5cdbde03133a9da379084"
+hash = "a76b7869d90c2b8f0e1be1ea6560ccb635b80b5f22c7ab5f64fcba0a810ba34a"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -110,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c97e8587e3659228a57e6070e9b07d6768f0c8e6ee5a7e095b27c3b8152fe87e"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "1ba38e1558b064ee70588d7b61f7fe208b233af999b13c0cf03a11b628d05cb0"
 metafile = true
 
 [[files]]
@@ -275,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "1fcb1bf91f4979cce47e56392cf9e3d30806bc0ff8aedc92b461272ecac8f8ca"
 metafile = true
 
 [[files]]
