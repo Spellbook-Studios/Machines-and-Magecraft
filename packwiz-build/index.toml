@@ -158,7 +158,7 @@ hash = "84b10759c8ccd68a052381d9de662503bfbc19f016d7c999256901ef2f2d8556"
 
 [[files]]
 file = "modlist.txt"
-hash = "69f632f073626e797d128b4250ec3bb9421fa36ee8097449de70cbf894e9f49a"
+hash = "7cdc5d829bd44b1fdf03d5fc076abdac3acf6d8c40e6799d1b31ca6a07edcf2c"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -306,6 +306,11 @@ hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "da63657599461e9c8141f45042bf1423aa96f80e9dca9260992bcc5871e6daaf"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "57c3760ced2a950dadeeaef161dc0af9c42ce8bbfe296f892f069063cd45d5c2"
 metafile = true
@@ -348,6 +353,21 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
 metafile = true
 
 [[files]]
