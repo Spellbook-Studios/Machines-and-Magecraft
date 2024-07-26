@@ -1,0 +1,26 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:gold_backpack"
+    }
+  ],
+  "key": {
+    "B": {
+      "item": "sophisticatedbackpacks:iron_backpack"
+    },
+    "C" : { "item": "minecraft:chest" },
+    "G": {
+      "tag": "forge:plates/gold"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GBG",
+    "GCG"
+  ],
+  "result": {
+    "item": "sophisticatedbackpacks:gold_backpack"
+  }
+}

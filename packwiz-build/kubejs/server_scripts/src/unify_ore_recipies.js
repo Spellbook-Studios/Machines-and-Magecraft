@@ -39,7 +39,7 @@ ServerEvents.recipes(event => {
 
     // Replace ingots with better ingots
     for (const [orignal, replacement] of Object.entries(ingot_replace)) {
-        event.replaceInput({}, orignal, replacement)
-        event.replaceOutput({}, orignal, replacement)
+        event.replaceInput({ input: orignal }, orignal, replacement)
+        event.replaceOutput({ output: orignal }, orignal, replacement)
     }
 })

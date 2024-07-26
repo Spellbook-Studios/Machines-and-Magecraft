@@ -1,0 +1,26 @@
+{
+    "type": "sophisticatedbackpacks:backpack_upgrade",
+    "conditions": [
+      {
+        "type": "sophisticatedcore:item_enabled",
+        "itemRegistryName": "sophisticatedbackpacks:iron_backpack"
+      }
+    ],
+    "key": {
+      "B": {
+        "item": "sophisticatedbackpacks:backpack"
+      },
+      "C": { "item": "minecraft:chest" },
+      "I": {
+        "tag": "forge:plates/iron"
+      }
+    },
+    "pattern": [
+      "III",
+      "IBI",
+      "ICI"
+    ],
+    "result": {
+      "item": "sophisticatedbackpacks:iron_backpack"
+    }
+  }

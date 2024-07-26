@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+metafile = true
+
+[[files]]
 file = "mods/create-structures.pw.toml"
 hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
 metafile = true
@@ -33,4 +38,9 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
+metafile = true
+
+[[files]]
+file = "mods/yaam.pw.toml"
+hash = "287cc56b3cbca4aaa3afdedc255ee03edb8e3fbdd5c4e83e9246eaf514953253"
 metafile = true

@@ -78,7 +78,7 @@ hash = "bdcad0f584f5a3899bdd635dde3473d9d00235a175ac9fc3d75ff90c25740df5"
 
 [[files]]
 file = "config/immersiveengineering-common.toml"
-hash = "0c9d0e1f7c5ea9dda456ee9e69dda5747d6bb3ecb49e98204a823ceca098a18e"
+hash = "119eeb510f8c512dc196cebf47d6fd855a0a525796bb759ba72cb6ab7d628669"
 
 [[files]]
 file = "defaultconfigs/oculus.properties"
@@ -95,6 +95,10 @@ hash = "a9bbf22917d1e31f2020d7526748a6582781fce70c1e0a32281b6f2c37178a0b"
 [[files]]
 file = "journeymap/server/5.9/journeymap.server.default.config"
 hash = "7d95003e3d478b23b60d65523bf711f71ee1833720e74a46196cd1c08bfa37c6"
+
+[[files]]
+file = "kubejs/assets/mm/textures/item/tanned_leather.png"
+hash = "5eda9e9a22d2ccd63676efcc7a947048e9607f0087047423d450a2c7d236eddf"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -153,12 +157,48 @@ file = "kubejs/data/mekanism/worldgen/configured_feature/ore_tin_small_retrogen.
 hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
 
 [[files]]
+file = "kubejs/data/mm/recipes/drying_tanned_leather.json"
+hash = "bd42f4a416b1bc345b79a2b3071f3c69e778b5da9404bbd1742607933e816fe0"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/backpack.json"
+hash = "0acb18db14786c8c4d6c8f2e054e248abe75f104c43105ebae3a6416c756c6a9"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/copper_backpack.json"
+hash = "0c5ccd6e7d590cdb2d6ba3f4fd5160b17e5fdfe909422d23abb02687b4925d9f"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/diamond_backpack.json"
+hash = "fa15d7395d1b621cfdaed8ecc830479f6193cbaddf7807b7f6e6250a7b5bdc17"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/gold_backpack.json"
+hash = "00204bdb09a2ff61f316f03896a4de93c07f31163bb31d7ee09be9aadc74a92a"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/iron_backpack.json"
+hash = "5ed892dac00ef16a4b952332fc50399924231a3709c7d62a7d862deb8d865404"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/iron_backpack_from_copper.json"
+hash = "77b00f76e17f49954e331e99ec73b887b8d0855df506c38bcaacb70f3927388c"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/upgrade_base.json"
+hash = "bf05d1e5d08e4001a74f5491439ed154a83452a73b688fbc6c2fb43344211ba9"
+
+[[files]]
 file = "kubejs/server_scripts/src/unify_ore_recipies.js"
-hash = "84b10759c8ccd68a052381d9de662503bfbc19f016d7c999256901ef2f2d8556"
+hash = "034b1fbb5d968772f357e5c8f5fa8c269f09108638e5c245b170384b2b8a0a71"
+
+[[files]]
+file = "kubejs/startup_scripts/src/tanned_leather.js"
+hash = "c521ff9752923a96e01162f56497bb8bca0f078f3a6f00b6300f7b3c63b4515d"
 
 [[files]]
 file = "modlist.txt"
-hash = "7cdc5d829bd44b1fdf03d5fc076abdac3acf6d8c40e6799d1b31ca6a07edcf2c"
+hash = "327e8c1e9d00f816ce62c425246be4b3ff30b73a361e9fd1673a1fc72668dccc"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -398,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "9b09aa0056d02ee5d529009e392af5412536bcb4b832ab9bc907d9135b1e00ec"
+metafile = true
+
+[[files]]
+file = "mods/yaam.pw.toml"
+hash = "287cc56b3cbca4aaa3afdedc255ee03edb8e3fbdd5c4e83e9246eaf514953253"
 metafile = true
 
 [[files]]
