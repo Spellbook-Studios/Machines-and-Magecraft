@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/world.toml"
+hash = "892252eec030ce30d8093977dfb1417ac07605c2526c9e52641e71fd5eb556bf"
+
+[[files]]
 file = "config/defaultoptions-common.toml"
 hash = "f7b6947805559511a423f8ef9fe8b64051440cd545c7bcbc82cc862365c52657"
 
@@ -71,6 +75,10 @@ hash = "12194279d85eca1c110c4e5ee1be31dcfc1fd33df134f497a4dd7e18e20d7898"
 [[files]]
 file = "config/fancymenu/slideshows/mainmenu/properties.txt"
 hash = "bdcad0f584f5a3899bdd635dde3473d9d00235a175ac9fc3d75ff90c25740df5"
+
+[[files]]
+file = "config/immersiveengineering-common.toml"
+hash = "0c9d0e1f7c5ea9dda456ee9e69dda5747d6bb3ecb49e98204a823ceca098a18e"
 
 [[files]]
 file = "defaultconfigs/oculus.properties"
@@ -146,7 +154,7 @@ hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
 
 [[files]]
 file = "kubejs/server_scripts/src/unify_ore_recipies.js"
-hash = "bc74fd7ac6edf55f246d3930b33cc368193148d3212bd57c63057e39499079e6"
+hash = "84b10759c8ccd68a052381d9de662503bfbc19f016d7c999256901ef2f2d8556"
 
 [[files]]
 file = "modlist.txt"

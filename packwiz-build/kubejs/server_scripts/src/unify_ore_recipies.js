@@ -9,31 +9,37 @@ const disabled_ore_items = ['immersiveengineering:raw_uranium', 'immersiveengine
     'mekanism:raw_tin', 'mekanism:raw_lead', 'mekanism:block_raw_tin', 'mekanism:block_raw_lead'
 ]
 
+const ingot_replace = {
+    'immersiveengineering:ingot_uranium': 'mekanism:ingot_uranium',
+    'immersiveengineering:ingot_nickel': 'thermal:nickel_ingot',
+    'immersiveengineering:ingot_silver': 'thermal:silver_ingot',
+    'immersiveengineering:ingot_lead': 'thermal:lead_ingot',
+    'mekanism:ingot_tin': 'thermal:tin_ingot',
+    'mekanism:ingot_lead': 'thermal:lead_ingot'
+}
+
 ServerEvents.tags('item', event => {
+    // Remove tags from raw and ore items
     disabled_ore_items.forEach(item => {
         event.removeAllTagsFrom(item)
     })
 
-    // Remove ingot manually
-    event.removeAllTagsFrom('immersiveengineering:ingot_uranium')
-    event.removeAllTagsFrom('immersiveengineering:ingot_nickel')
-    event.removeAllTagsFrom('immersiveengineering:ingot_silver')
-    event.removeAllTagsFrom('immersiveengineering:ingot_lead')
-    event.removeAllTagsFrom('mekanism:ingot_tin')
-    event.removeAllTagsFrom('mekanism:ingot_lead')
+    // Remove ingot tags
+    for (const [orignal, replacement] of Object.entries(ingot_replace)) {
+        event.removeAllTagsFrom(orignal)
+    }
 })
 
 ServerEvents.recipes(event => {
+    // Remove recipies for bad ore blocks and raw items
     disabled_ore_items.forEach(item => {
         event.remove({ output: item })
         event.remove({ input: item })
     })
 
-    // Remove ingot manually
-    event.replaceInput({}, 'immersiveengineering:ingot_uranium', '#forge:ingots/uranium')
-    event.replaceInput({}, 'immersiveengineering:ingot_nickel', '#forge:ingots/nickel')
-    event.replaceInput({}, 'immersiveengineering:ingot_silver', '#forge:ingots/silver')
-    event.replaceInput({}, 'immersiveengineering:ingot_lead', '#forge:ingots/lead')
-    event.replaceInput({}, 'mekanism:ingot_tin', '#forge:ingots/tin')
-    event.replaceInput({}, 'mekanism:ingot_lead', '#forge:ingots/lead')
+    // Replace ingots with better ingots
+    for (const [orignal, replacement] of Object.entries(ingot_replace)) {
+        event.replaceInput({}, orignal, replacement)
+        event.replaceOutput({}, orignal, replacement)
+    }
 })
