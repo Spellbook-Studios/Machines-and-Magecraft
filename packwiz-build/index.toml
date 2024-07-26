@@ -26,7 +26,11 @@ hash = "ef6d7bdaa7478cbcdbfc3b7ccfa45f9fa31bcd53fb863c471dbb017afb6d32d4"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "b74f43ce4f1cfaf0c6ce586d2b5129953e2e107d65ec0f20de4e96ddd58af597"
+hash = "4ede161fa855f1ccd8bc2e2a8edfbfbf2d7f65908dc1a0b944ea32a8e70962c7"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "706e9a290ed1559447d9dd344b55cc70afadf46e2ff944207ac6c74bb3d1bfcd"
 
 [[files]]
 file = "config/fancymenu/customization/mm_main_menu.txt"
