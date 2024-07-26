@@ -37,6 +37,26 @@ file = "config/fancymenu/options.txt"
 hash = "4bdbdb694ab50f888efa24f0ef76c2fe5dc457657f2ebc5531724f74430bb005"
 
 [[files]]
+file = "config/fancymenu/slideshows/loadingscreen/images/horshore-bend.png"
+hash = "b3275cdac50b6a422704732a9c2fc0372eec6dcfbf2119bf2660a8fa9bb1ae66"
+
+[[files]]
+file = "config/fancymenu/slideshows/loadingscreen/images/i-love-canyons.png"
+hash = "531cdb8b03672d3d45e3320f158dca33b48a5235b822632048feb36cebfe3453"
+
+[[files]]
+file = "config/fancymenu/slideshows/loadingscreen/images/jungle-lake.png"
+hash = "7cf6a126b40f23107f97540740c0f02cc36721d33fe5c5dbacb28647aad36ab2"
+
+[[files]]
+file = "config/fancymenu/slideshows/loadingscreen/images/night-flowers.png"
+hash = "f941f0ae05fa7f48a51e4e27e8733e3fe668acf48a3c9edab76cd6accf370089"
+
+[[files]]
+file = "config/fancymenu/slideshows/loadingscreen/properties.txt"
+hash = "3c1181488cde2a9ca4647dfee7282a0d4eff9b2c06a49b8e61e2dd1419352add"
+
+[[files]]
 file = "config/fancymenu/slideshows/mainmenu/images/machines-n-magecraft.png"
 hash = "47526e1d12a6f5f68925a732258d0764b5b9762eeaf8fb9df88e28c3dee127db"
 
@@ -66,7 +86,7 @@ hash = "7d95003e3d478b23b60d65523bf711f71ee1833720e74a46196cd1c08bfa37c6"
 
 [[files]]
 file = "modlist.txt"
-hash = "147f6399699210ef8d24c02f84fd2bda1dba8a39e37464eb67b7f36a6d53e1f8"
+hash = "f412e1038710fe6d46fd03b5f07f880c9170164cc3140ede4d685de6edcdbb04"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -106,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "a49da0eb6aebdcfbd6d3436aaeb23bca3fb47f2c7100adaafe625b929f68013b"
 metafile = true
 
 [[files]]

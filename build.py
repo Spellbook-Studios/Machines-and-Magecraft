@@ -47,6 +47,6 @@ if __name__ == "__main__":
         print(" Removing file: " + old_cached_file.name)
         os.remove(old_cached_file.path)
 
-    os.system("cd packwiz-build && packwiz refresh")
+    os.system("cd packwiz-build && packwiz refresh > /dev/null")
     os.system("cd packwiz-build && packwiz list -v > modlist.txt")
     os.system("cd packwiz-build && packwiz refresh")
