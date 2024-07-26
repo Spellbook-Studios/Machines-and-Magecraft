@@ -90,7 +90,7 @@ hash = "7d95003e3d478b23b60d65523bf711f71ee1833720e74a46196cd1c08bfa37c6"
 
 [[files]]
 file = "modlist.txt"
-hash = "a76b7869d90c2b8f0e1be1ea6560ccb635b80b5f22c7ab5f64fcba0a810ba34a"
+hash = "b34d907c700793e702243162483def7d408d8ea43b540ef5af569753568623d3"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -280,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "ea3ab41c8e1346c6b78afef0ba8a00b3409705b2eecae716883882f12956d90d"
 metafile = true
 
 [[files]]
