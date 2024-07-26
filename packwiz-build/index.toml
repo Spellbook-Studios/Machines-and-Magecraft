@@ -89,12 +89,77 @@ file = "journeymap/server/5.9/journeymap.server.default.config"
 hash = "7d95003e3d478b23b60d65523bf711f71ee1833720e74a46196cd1c08bfa37c6"
 
 [[files]]
+file = "kubejs/config/client.properties"
+hash = "056e4f7abd0c95fa97aaa9fb3098faa93477934beb0c547c464020cd31e1b3a4"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "1351992a9ee498891a5d6868bd3b4f83928f4be221956d270b47547e27e9e49d"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "69d451003d550ba269e80e04047a15ca1eb72a5972ad8c07fdb758e0a5187872"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/worldgen/configured_feature/deep_nickel.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/worldgen/configured_feature/lead.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/worldgen/configured_feature/nickel.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/worldgen/configured_feature/silver.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/worldgen/configured_feature/uranium.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_lead_normal.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_lead_normal_retrogen.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_tin_large.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_tin_large_retrogen.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_tin_small.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_tin_small_retrogen.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/server_scripts/src/unify_ore_recipies.js"
+hash = "bc74fd7ac6edf55f246d3930b33cc368193148d3212bd57c63057e39499079e6"
+
+[[files]]
 file = "modlist.txt"
-hash = "b34d907c700793e702243162483def7d408d8ea43b540ef5af569753568623d3"
+hash = "69f632f073626e797d128b4250ec3bb9421fa36ee8097449de70cbf894e9f49a"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
@@ -228,6 +293,11 @@ hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "57c3760ced2a950dadeeaef161dc0af9c42ce8bbfe296f892f069063cd45d5c2"
 metafile = true
@@ -255,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
 metafile = true
 
 [[files]]
