@@ -202,7 +202,7 @@ hash = "4cf38ece84d01a216f78aaccb7dc9bca8eb4d9f13e273aac41239d6d3a2575ba"
 
 [[files]]
 file = "kubejs/server_scripts/src/unify_plates.js"
-hash = "c5ef6c5e01272fe97e0fb6e4ab8c855faa2c36625ca26f199b195cf1312d0e67"
+hash = "48b46437dce7c9307896caf578ac28499f455a1174ca54eaa2d8bdaae62a348a"
 
 [[files]]
 file = "kubejs/startup_scripts/src/leather.js"
@@ -210,7 +210,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "6cc9f08fd54cb0ee348b66709e650bee3084f8cd5cc68b5dacd6a5d8850db9ee"
+hash = "d10d70b65589d5c18de4af3f0cf70381665a139a4773b50dd1201b78c2997416"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -350,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-thermal.pw.toml"
+hash = "d53245adba35fc8fb414f232321a284da8edd03e5ea5ec8ab2001eba14d25f1f"
 metafile = true
 
 [[files]]

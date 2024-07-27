@@ -25,4 +25,9 @@ ServerEvents.recipes(event => {
         event.remove({ output: item })
         event.remove({ input: item })
     })
+
+    // There are still 3 types of mekanism plates that don't have an alternative
+    event.remove({ id: 'immersiveengineering:crafting/plate_aluminum_hammering' })
+    event.remove({ id: 'immersiveengineering:crafting/plate_uranium_hammering' })
+    event.remove({ id: 'immersiveengineering:crafting/plate_steel_hammering' })
 })
