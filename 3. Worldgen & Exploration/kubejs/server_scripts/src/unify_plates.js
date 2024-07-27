@@ -30,4 +30,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'immersiveengineering:crafting/plate_aluminum_hammering' })
     event.remove({ id: 'immersiveengineering:crafting/plate_uranium_hammering' })
     event.remove({ id: 'immersiveengineering:crafting/plate_steel_hammering' })
+    event.recipes.thermal.press('immersiveengineering:plate_aluminum', '#forge:ingots/aluminum')
+    event.recipes.thermal.press('immersiveengineering:plate_uranium', '#forge:ingots/uranium')
+    event.recipes.thermal.press('immersiveengineering:plate_steel', '#forge:ingots/steel')
 })

@@ -202,7 +202,7 @@ hash = "4cf38ece84d01a216f78aaccb7dc9bca8eb4d9f13e273aac41239d6d3a2575ba"
 
 [[files]]
 file = "kubejs/server_scripts/src/unify_plates.js"
-hash = "48b46437dce7c9307896caf578ac28499f455a1174ca54eaa2d8bdaae62a348a"
+hash = "ca71af844d67c1b1a52ebabaa6e33bb086fb7e10e7acb3fad75a80a45237dce8"
 
 [[files]]
 file = "kubejs/startup_scripts/src/leather.js"
