@@ -1,0 +1,22 @@
+{
+    "filters": [
+        {"id": "immersiveengineering:raw_uranium"},
+        {"id": "immersiveengineering:raw_block_uranium"},
+        {"id": "immersiveengineering:raw_nickel"},
+        {"id": "immersiveengineering:raw_block_nickel"},
+        {"id": "immersiveengineering:raw_silver"},
+        {"id": "immersiveengineering:raw_block_silver"},
+        {"id": "immersiveengineering:raw_lead"},
+        {"id": "immersiveengineering:raw_block_lead"},
+        {"id": "mekanism:raw_tin"},
+        {"id": "mekanism:raw_lead"},
+        {"id": "mekanism:block_raw_tin"},
+        {"id": "mekanism:block_raw_lead"},
+        {"id": "immersiveengineering:ingot_uranium"},
+        {"id": "immersiveengineering:ingot_nickel"},
+        {"id": "immersiveengineering:ingot_silver"},
+        {"id": "immersiveengineering:ingot_lead"},
+        {"id": "mekanism:ingot_tin"},
+        {"id": "mekanism:ingot_lead"}
+    ]
+}
