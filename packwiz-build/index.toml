@@ -194,11 +194,15 @@ hash = "bf05d1e5d08e4001a74f5491439ed154a83452a73b688fbc6c2fb43344211ba9"
 
 [[files]]
 file = "kubejs/server_scripts/src/leather_recipes.js"
-hash = "2357356a31f6446861003da1514b5fe84d920a549e5f7b5c059c0f0525149740"
+hash = "864e3e645a996a7f10329d9acafecf50cb9a991d2f5af51fa130af1a97c52578"
 
 [[files]]
 file = "kubejs/server_scripts/src/unify_ore_recipies.js"
 hash = "4cf38ece84d01a216f78aaccb7dc9bca8eb4d9f13e273aac41239d6d3a2575ba"
+
+[[files]]
+file = "kubejs/server_scripts/src/unify_plates.js"
+hash = "c5ef6c5e01272fe97e0fb6e4ab8c855faa2c36625ca26f199b195cf1312d0e67"
 
 [[files]]
 file = "kubejs/startup_scripts/src/leather.js"

@@ -4,7 +4,7 @@
 
 ServerEvents.recipes(event => {
     event.shaped(
-        Item.of('kubejs:cured_leather', 0), // arg 1: output
+        Item.of('kubejs:cured_leather', 3), // arg 1: output
         [
             'SSS',
             'LLL', // arg 2: the shape (array of strings)
