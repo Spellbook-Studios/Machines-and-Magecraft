@@ -97,7 +97,11 @@ file = "journeymap/server/5.9/journeymap.server.default.config"
 hash = "7d95003e3d478b23b60d65523bf711f71ee1833720e74a46196cd1c08bfa37c6"
 
 [[files]]
-file = "kubejs/assets/mm/textures/item/tanned_leather.png"
+file = "kubejs/assets/mm/textures/item/cured_leather.png"
+hash = "85e638b77ccd4934764024c189978b86b5484183215b2f9c51864589ebced978"
+
+[[files]]
+file = "kubejs/assets/mm/textures/item/untanned_leather.png"
 hash = "5eda9e9a22d2ccd63676efcc7a947048e9607f0087047423d450a2c7d236eddf"
 
 [[files]]
@@ -157,12 +161,12 @@ file = "kubejs/data/mekanism/worldgen/configured_feature/ore_tin_small_retrogen.
 hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
 
 [[files]]
-file = "kubejs/data/mm/recipes/drying_tanned_leather.json"
-hash = "bd42f4a416b1bc345b79a2b3071f3c69e778b5da9404bbd1742607933e816fe0"
+file = "kubejs/data/mm/recipes/drying_untanned_leather.json"
+hash = "f98336c72492a4914e312d1af2e2da17ba9054e92c5601bbeaf7a5adfbf0e316"
 
 [[files]]
 file = "kubejs/data/sophisticatedbackpacks/recipes/backpack.json"
-hash = "d793027e067c1b388d4d2954a6192367a64b1422b9ddd319c24edfe2e18a2b5a"
+hash = "48d845d4e628e3bbc606aa6acba75f58bcd27eb287f57602870d2488e7411b2c"
 
 [[files]]
 file = "kubejs/data/sophisticatedbackpacks/recipes/copper_backpack.json"
@@ -189,16 +193,20 @@ file = "kubejs/data/sophisticatedbackpacks/recipes/upgrade_base.json"
 hash = "bf05d1e5d08e4001a74f5491439ed154a83452a73b688fbc6c2fb43344211ba9"
 
 [[files]]
+file = "kubejs/server_scripts/src/leather_recipes.js"
+hash = "bb9c36064ff878d11d622d57289f312964c2baeece97b3cce3d47725ed9e988c"
+
+[[files]]
 file = "kubejs/server_scripts/src/unify_ore_recipies.js"
 hash = "034b1fbb5d968772f357e5c8f5fa8c269f09108638e5c245b170384b2b8a0a71"
 
 [[files]]
-file = "kubejs/startup_scripts/src/tanned_leather.js"
-hash = "4817084796c2add0fb3c13170b448068c6d42f7610f7c1f0ca28726fdda31526"
+file = "kubejs/startup_scripts/src/leather.js"
+hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "327e8c1e9d00f816ce62c425246be4b3ff30b73a361e9fd1673a1fc72668dccc"
+hash = "6cc9f08fd54cb0ee348b66709e650bee3084f8cd5cc68b5dacd6a5d8850db9ee"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -343,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "9c26ae6841407e77909a8c5011afa8009fd228ff52522e0af01c0fbfe2604606"
 metafile = true
 
 [[files]]

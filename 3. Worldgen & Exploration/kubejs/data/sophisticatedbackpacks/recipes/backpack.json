@@ -11,7 +11,7 @@
         "tag": "forge:chests/wooden"
       },
       "L": {
-        "tag": "forge:leather/tanned"
+        "tag": "forge:leather"
       },
       "S": {
         "tag": "forge:string"

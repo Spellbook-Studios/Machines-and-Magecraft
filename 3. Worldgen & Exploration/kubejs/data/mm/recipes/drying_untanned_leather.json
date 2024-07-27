@@ -1,8 +1,8 @@
 {
     "type": "yaam:drying_recipe",
     "input": {
-      "item": "minecraft:leather"
+      "item": "kubejs:cured_leather"
     },
-    "output": "kubejs:tanned_leather",
+    "output": "minecraft:leather",
     "timeMax": 4800
   }

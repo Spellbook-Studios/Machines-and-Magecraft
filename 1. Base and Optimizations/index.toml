@@ -31,6 +31,11 @@ hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "9c26ae6841407e77909a8c5011afa8009fd228ff52522e0af01c0fbfe2604606"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b4f221a6dc89a622879a17d581a9af71d3c83382765e3999e26d023de19cf211"
 metafile = true
