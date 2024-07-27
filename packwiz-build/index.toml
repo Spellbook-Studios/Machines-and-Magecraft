@@ -194,7 +194,7 @@ hash = "bf05d1e5d08e4001a74f5491439ed154a83452a73b688fbc6c2fb43344211ba9"
 
 [[files]]
 file = "kubejs/server_scripts/src/leather_recipes.js"
-hash = "18a78c9225e69447e3894fc92569d59f7f0ea8a9bf47b123f30d1ef8dff2f2c2"
+hash = "2357356a31f6446861003da1514b5fe84d920a549e5f7b5c059c0f0525149740"
 
 [[files]]
 file = "kubejs/server_scripts/src/unify_ore_recipies.js"
