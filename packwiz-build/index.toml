@@ -193,12 +193,20 @@ file = "kubejs/data/sophisticatedbackpacks/recipes/upgrade_base.json"
 hash = "bf05d1e5d08e4001a74f5491439ed154a83452a73b688fbc6c2fb43344211ba9"
 
 [[files]]
+file = "kubejs/server_scripts/src/cleanup_emi.js"
+hash = "73c821f51da7de75a64fbd0d2735b34e307638f28a191d1510a431451b7af9b1"
+
+[[files]]
 file = "kubejs/server_scripts/src/leather_recipes.js"
 hash = "864e3e645a996a7f10329d9acafecf50cb9a991d2f5af51fa130af1a97c52578"
 
 [[files]]
 file = "kubejs/server_scripts/src/unify_metals.js"
 hash = "00505a23d3a9fd568fcf29d94724633adc69bcbab927a45ed357b4bb38001557"
+
+[[files]]
+file = "kubejs/startup_scripts/mod_name.js"
+hash = "919652c742e72d775c97ad6fec14d8e3f91239f64d7d7a121f8eb429ad31ea60"
 
 [[files]]
 file = "kubejs/startup_scripts/src/leather.js"
