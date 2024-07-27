@@ -22,11 +22,13 @@ ServerEvents.tags('item', event => {
     // Remove tags from raw and ore items
     disabled_ore_items.forEach(item => {
         event.removeAllTagsFrom(item)
+        event.add("c:hidden_from_recipe_viewers", item)
     })
 
     // Remove ingot tags
     for (const [orignal, replacement] of Object.entries(ingot_replace)) {
         event.removeAllTagsFrom(orignal)
+        event.add("c:hidden_from_recipe_viewers", orignal)
     }
 })
 
