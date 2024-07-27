@@ -17,6 +17,6 @@ ServerEvents.recipes(event => {
 
 LootJS.modifiers((event) => {
     event
-        .addLootTypeModifier(LootType.ENTITY).matchLoot(Item.of("minecraft:leather")).replaceLoot("minecraft:leather", "kubejs:untanned_leather")
+        .addLootTableModifier(/.*entit.*/).replaceLoot("minecraft:leather", "kubejs:untanned_leather")
 });
 

@@ -97,10 +97,6 @@ file = "journeymap/server/5.9/journeymap.server.default.config"
 hash = "7d95003e3d478b23b60d65523bf711f71ee1833720e74a46196cd1c08bfa37c6"
 
 [[files]]
-file = "kubejs/assets/emi/recipe/filters/unify_ores.json"
-hash = "6a9472f4066071b77b951f3792db9408d6d466d47fb9671982ba5ee2e2262d88"
-
-[[files]]
 file = "kubejs/assets/mm/textures/item/cured_leather.png"
 hash = "85e638b77ccd4934764024c189978b86b5484183215b2f9c51864589ebced978"
 
@@ -198,11 +194,11 @@ hash = "bf05d1e5d08e4001a74f5491439ed154a83452a73b688fbc6c2fb43344211ba9"
 
 [[files]]
 file = "kubejs/server_scripts/src/leather_recipes.js"
-hash = "22f9edc28154b9d65ddb53645e61d370b7b0630a7cf45516b22ce798484b21fa"
+hash = "18a78c9225e69447e3894fc92569d59f7f0ea8a9bf47b123f30d1ef8dff2f2c2"
 
 [[files]]
 file = "kubejs/server_scripts/src/unify_ore_recipies.js"
-hash = "df23d0ce49d6f68b492e0951ffe5132e81fde916294e6b42d1be148caeb09b93"
+hash = "4cf38ece84d01a216f78aaccb7dc9bca8eb4d9f13e273aac41239d6d3a2575ba"
 
 [[files]]
 file = "kubejs/startup_scripts/src/leather.js"
