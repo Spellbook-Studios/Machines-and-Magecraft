@@ -197,12 +197,8 @@ file = "kubejs/server_scripts/src/leather_recipes.js"
 hash = "864e3e645a996a7f10329d9acafecf50cb9a991d2f5af51fa130af1a97c52578"
 
 [[files]]
-file = "kubejs/server_scripts/src/unify_ore_recipies.js"
-hash = "4cf38ece84d01a216f78aaccb7dc9bca8eb4d9f13e273aac41239d6d3a2575ba"
-
-[[files]]
-file = "kubejs/server_scripts/src/unify_plates.js"
-hash = "ca71af844d67c1b1a52ebabaa6e33bb086fb7e10e7acb3fad75a80a45237dce8"
+file = "kubejs/server_scripts/src/unify_metals.js"
+hash = "00505a23d3a9fd568fcf29d94724633adc69bcbab927a45ed357b4bb38001557"
 
 [[files]]
 file = "kubejs/startup_scripts/src/leather.js"
