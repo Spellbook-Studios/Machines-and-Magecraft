@@ -101,6 +101,14 @@ file = "kubejs/assets/mm/textures/item/cured_leather.png"
 hash = "85e638b77ccd4934764024c189978b86b5484183215b2f9c51864589ebced978"
 
 [[files]]
+file = "kubejs/assets/mm/textures/item/iron_component_incomplete.png"
+hash = "967470e2517f0b2dd1cd38f3e337bbdb3bbcbc8a93bbf1c34e73804db3790d4e"
+
+[[files]]
+file = "kubejs/assets/mm/textures/item/steel_component_incomplete.png"
+hash = "3a47cf7e074c2a4a0e7608300bbd9627e3b5634caba01ed3a59ab8b741a2edad"
+
+[[files]]
 file = "kubejs/assets/mm/textures/item/untanned_leather.png"
 hash = "5eda9e9a22d2ccd63676efcc7a947048e9607f0087047423d450a2c7d236eddf"
 
@@ -193,6 +201,10 @@ file = "kubejs/data/sophisticatedbackpacks/recipes/upgrade_base.json"
 hash = "bf05d1e5d08e4001a74f5491439ed154a83452a73b688fbc6c2fb43344211ba9"
 
 [[files]]
+file = "kubejs/server_scripts/src/Immersive/recipes.js"
+hash = "2273f45be6ff7c440e18fe259935f29d0b59972e51dc20f74b02117c4a9025e8"
+
+[[files]]
 file = "kubejs/server_scripts/src/Thermal/alloys.js"
 hash = "521fedee53ffe6d913aaf67fd65596923a4dffc79b1392662041c672020534e0"
 
@@ -211,6 +223,10 @@ hash = "6346aab22af5fdcf8298e0e53a2ca1584f9e18340d94c1830388eb3984569f40"
 [[files]]
 file = "kubejs/startup_scripts/mod_name.js"
 hash = "919652c742e72d775c97ad6fec14d8e3f91239f64d7d7a121f8eb429ad31ea60"
+
+[[files]]
+file = "kubejs/startup_scripts/src/Immersive.js"
+hash = "d6e07517e8f41257f1d0e2b0ab45db9c13e9eac33ef4bc51e00e2e18fa3f9f47"
 
 [[files]]
 file = "kubejs/startup_scripts/src/leather.js"
