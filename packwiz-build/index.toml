@@ -234,7 +234,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "3f341914f64e3f5f20f556485299e0c5512ee7101fbdc7c45375af96f41ec69c"
+hash = "47259a1b66d62c5ff81b3cef35397d50efa5c2ead0cb329bf011c9596400b9c5"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -422,11 +422,6 @@ hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
 metafile = true
 
 [[files]]
-file = "mods/jei-multiblocks.pw.toml"
-hash = "b84c0438797762c78bd3e369f6f10e34877ac7de8d7ef32c2239be4ca6716e1a"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "84e3d8b611426891356e627e2ac68b2cbcf199a4c76f34b6528a7899a8b35c7e"
 metafile = true
@@ -489,6 +484,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "81d06b76e9cb7cb1e0c8f69724055a24ec75291c67d32a5740bd8bafd6ba7940"
 metafile = true
 
 [[files]]
