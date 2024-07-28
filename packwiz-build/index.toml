@@ -218,7 +218,12 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "fbcc8ebd3a3f6856076b522e801873c8e9ad90f4c62dd8c8b5eacb3c6ef5416c"
+hash = "640cac82e86b6754312327c4c8851112e8a31437f013168a31010d419392b239"
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "8df4661f7a00b5e01562b27370b077d5b6df3d584aaf63e954dd7e449a77f6ab"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
