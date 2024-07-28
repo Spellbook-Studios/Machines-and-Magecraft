@@ -202,7 +202,7 @@ hash = "bf05d1e5d08e4001a74f5491439ed154a83452a73b688fbc6c2fb43344211ba9"
 
 [[files]]
 file = "kubejs/server_scripts/src/Immersive/recipes.js"
-hash = "2273f45be6ff7c440e18fe259935f29d0b59972e51dc20f74b02117c4a9025e8"
+hash = "820fde134d4e631b9836e20b33730ba5b7585bbca006757d862b4071ba088082"
 
 [[files]]
 file = "kubejs/server_scripts/src/Thermal/alloys.js"
@@ -234,7 +234,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "640cac82e86b6754312327c4c8851112e8a31437f013168a31010d419392b239"
+hash = "f1ad635352663f0b5b67ff863f0d660531ffe8f5d2cddd681e6f4e6f6276d6ad"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -364,6 +364,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
+metafile = true
+
+[[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "b84c0438797762c78bd3e369f6f10e34877ac7de8d7ef32c2239be4ca6716e1a"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@
 
 ServerEvents.recipes(event => {
     // Iron Mechanical Component
-    event.remove({output: 'mmersiveengineering:component_iron'})
+    event.remove({output: 'immersiveengineering:component_iron'})
     let inter = 'kubejs:iron_component_incomplete' // intermediary component
 
     event.recipes.create.sequenced_assembly([ // Results
@@ -18,7 +18,7 @@ ServerEvents.recipes(event => {
     ]).transitionalItem(inter).loops(2)
     
     // Steel Mechanical Component
-    event.remove({output: 'mmersiveengineering:component_steel'})
+    event.remove({output: 'immersiveengineering:component_steel'})
     inter = 'kubejs:steel_component_incomplete' // intermediary component
 
     event.recipes.create.sequenced_assembly([ // Results
@@ -32,4 +32,7 @@ ServerEvents.recipes(event => {
         event.recipes.createDeploying(inter, [inter, '#forge:ingots/copper']),
         event.recipes.createPressing(inter, inter)
     ]).transitionalItem(inter).loops(2)
+
+    // Make immersive funger med create
+    event.replaceInput({ output: 'immersiveengineering:blastbrick'}, 'minecraft:brick', '#forge:plates/obsidian')
 })

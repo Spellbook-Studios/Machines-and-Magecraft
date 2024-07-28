@@ -32,4 +32,7 @@ ServerEvents.recipes(event => {
         event.recipes.createDeploying(inter, [inter, '#forge:ingots/copper']),
         event.recipes.createPressing(inter, inter)
     ]).transitionalItem(inter).loops(2)
+
+    // Make immersive funger med create
+    event.replaceInput({ output: 'immersiveengineering:blastbrick'}, 'minecraft:brick', '#forge:plates/obsidian')
 })
