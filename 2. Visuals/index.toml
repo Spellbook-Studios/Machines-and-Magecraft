@@ -10,6 +10,11 @@ hash = "c97e8587e3659228a57e6070e9b07d6768f0c8e6ee5a7e095b27c3b8152fe87e"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
@@ -17,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "a49da0eb6aebdcfbd6d3436aaeb23bca3fb47f2c7100adaafe625b929f68013b"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-boss-bars-mod.pw.toml"
+hash = "813f28282560adc85c23c99b163de1dc1e1f7fdbba6bc4f2266f913c9de6133a"
 metafile = true
 
 [[files]]

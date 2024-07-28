@@ -35,4 +35,7 @@ ServerEvents.recipes(event => {
 
     // Make immersive funger med create
     event.replaceInput({ output: 'immersiveengineering:blastbrick'}, 'minecraft:brick', '#forge:plates/obsidian')
+
+    // Remove immersive waterwheel
+    event.remove({output: 'immersiveengineering:waterwill'})
 })
