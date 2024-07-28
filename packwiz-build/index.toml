@@ -206,7 +206,7 @@ hash = "864e3e645a996a7f10329d9acafecf50cb9a991d2f5af51fa130af1a97c52578"
 
 [[files]]
 file = "kubejs/server_scripts/src/unify_metals.js"
-hash = "00505a23d3a9fd568fcf29d94724633adc69bcbab927a45ed357b4bb38001557"
+hash = "6346aab22af5fdcf8298e0e53a2ca1584f9e18340d94c1830388eb3984569f40"
 
 [[files]]
 file = "kubejs/startup_scripts/mod_name.js"

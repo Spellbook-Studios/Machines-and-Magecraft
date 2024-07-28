@@ -34,8 +34,33 @@ const ingot_replace = {
     'mekanism:ingot_lead': 'thermal:lead_ingot'
 }
 
-// Alloy dusts (Ingame its called grit)
-const disabled_dusts = ["immersiveengineering:dust_electrum", "immersiveengineering:dust_constantan", "immersiveengineering:dust_steel", "mekanism:dust_bronze"]
+const disabled_dusts = [
+    // Alloy dusts (Ingame its called grit)
+    "immersiveengineering:dust_electrum", "immersiveengineering:dust_constantan", "immersiveengineering:dust_steel", "mekanism:dust_bronze",
+    // Ore dusts
+    "immersiveengineering:dust_uranium",
+    "immersiveengineering:dust_nickel",
+    "immersiveengineering:dust_silver",
+    "immersiveengineering:dust_lead",
+    "immersiveengineering:dust_copper",
+    "immersiveengineering:dust_gold",
+    "immersiveengineering:dust_sulfur",
+    "immersiveengineering:dust_iron",
+    "mekanism:dust_sulfur",
+    "mekanism:dust_diamond",
+    "mekanism:dust_quartz",
+    "mekanism:dust_emerald",
+    "mekanism:dust_lapis_lazuli",
+    "mekanism:dust_netherite",
+]
+
+const replace_dusts = {
+    "mekanism:dust_iron": "thermal:iron_dust",
+    "mekanism:dust_gold": "thermal:gold_dust",
+    "mekanism:dust_copper": "thermal:copper_dust",
+    "mekanism:dust_tin": "thermal:tin_dust",
+    "mekanism:dust_lead": "thermal:lead_dust"
+}
 
 ServerEvents.tags('item', event => {
     // Remove tags and hide
@@ -56,6 +81,11 @@ ServerEvents.tags('item', event => {
 
     for (const [orignal, replacement] of Object.entries(ingot_replace)) {
         event.removeAllTagsFrom(orignal)
+        event.add("c:hidden_from_recipe_viewers", orignal)
+    }
+
+    for (const [orignal, replacement] of Object.entries(replace_dusts)) {
+        //event.removeAllTagsFrom(orignal)
         event.add("c:hidden_from_recipe_viewers", orignal)
     }
 })
@@ -92,4 +122,9 @@ ServerEvents.recipes(event => {
         event.remove({ output: orignal })
         event.remove({ input: orignal })
     }
+
+    // Repalce some dusts so that mekanism still works
+    /*for (const [orignal, replacement] of Object.entries(replace_dusts)) {
+        event.replaceInput({ output: orignal }, orignal, replacement)
+    }*/
 })
