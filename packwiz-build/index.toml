@@ -202,7 +202,7 @@ hash = "bf05d1e5d08e4001a74f5491439ed154a83452a73b688fbc6c2fb43344211ba9"
 
 [[files]]
 file = "kubejs/server_scripts/src/Immersive/recipes.js"
-hash = "61094979b9f7216c7be16d87da74f92d3092a08d83dfb98d05d88cac31d40925"
+hash = "d673ab7e034122fd6fa57ccd093dd30f5713a74a450c02737c5ea7cc94911de2"
 
 [[files]]
 file = "kubejs/server_scripts/src/Thermal/alloys.js"
