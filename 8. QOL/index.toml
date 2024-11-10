@@ -48,6 +48,11 @@ hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "bf2b057b55b277abf2045d13bf8d775e4e428152e5a44ad9856d0e1d77c55a38"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "6729c183fd64484333f34e05e2459c537535109bdc2bd585c6f532f32a05435f"
 metafile = true
@@ -65,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "e60b6bd62c31028a2555f06f5324004683d59d5dbee0697940075d9c89f7c6ea"
 metafile = true
 
 [[files]]

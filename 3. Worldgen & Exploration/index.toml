@@ -51,6 +51,11 @@ hash = "da63657599461e9c8141f45042bf1423aa96f80e9dca9260992bcc5871e6daaf"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "98e4fe14111012678e1aa92919307a67f49eca02ae7c48918e1c1ec791da57cd"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "b99b30e7ee2bc980b5efa7c5ae5e6563f2f629917805bd5501139b371e0adfad"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "1ea93de5929b045f8afd5acb78bb73da08f2e75315d519717b1c3e9397a17c38"
 metafile = true
 
 [[files]]

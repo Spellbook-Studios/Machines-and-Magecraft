@@ -89,6 +89,10 @@ file = "defaultconfigs/oculus.properties"
 hash = "9d632b311f61bcf025665ccdf5c2cf6aeb586d3f79cf67a0ad94a62167f2bd98"
 
 [[files]]
+file = "journeymap/config/5.9/journeymap.fullmap.config"
+hash = "b12fd7ee513c56c1fd29ede4393d24fbf38916afc986c08a42eb1c9bb0b54ca3"
+
+[[files]]
 file = "journeymap/config/5.9/journeymap.minimap.config"
 hash = "cb85812b988d69a0fa5a1488a95cc62c8e1878f10c4b64984164388ba9de4223"
 
@@ -242,7 +246,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "e8297d0e828717745d1f17022a66eb0da144bf85c6351ed75a7e90c99af915d9"
+hash = "311d208319a8dd78aab305bee00a05bbe15ef97921aef5a9935fae70cfcf7452"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -435,6 +439,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "bf2b057b55b277abf2045d13bf8d775e4e428152e5a44ad9856d0e1d77c55a38"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "6729c183fd64484333f34e05e2459c537535109bdc2bd585c6f532f32a05435f"
 metafile = true
@@ -467,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "e60b6bd62c31028a2555f06f5324004683d59d5dbee0697940075d9c89f7c6ea"
 metafile = true
 
 [[files]]
@@ -522,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "98e4fe14111012678e1aa92919307a67f49eca02ae7c48918e1c1ec791da57cd"
 metafile = true
 
 [[files]]
@@ -592,6 +611,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "1ea93de5929b045f8afd5acb78bb73da08f2e75315d519717b1c3e9397a17c38"
 metafile = true
 
 [[files]]
