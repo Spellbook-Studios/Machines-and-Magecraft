@@ -1,0 +1,8 @@
+name = "Oculus"
+filename = "oculus-dh22-mc1.20.1-1.7.0.jar"
+side = "client"
+
+[download]
+url = "https://web-static.sebsa.dk/spellbook-dev/mm/oculus-dh22-mc1.20.1-1.7.0.jar"
+hash-format = "sha512"
+hash = "279e85846e2ba1fd7a7be3e4fa0ddea3ccf96e362c0b987ebdd1a7d2926421ff61be64c8da4a80fc9d1c99059a5106f6e3c611b47ad64d30d7707386bd128180"

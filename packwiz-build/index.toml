@@ -81,6 +81,10 @@ file = "config/immersiveengineering-common.toml"
 hash = "119eeb510f8c512dc196cebf47d6fd855a0a525796bb759ba72cb6ab7d628669"
 
 [[files]]
+file = "config/treechop-common.toml"
+hash = "147f3b507ad6a3ea0941d66a5a12e7c9d47c9e6a214d6398d80a03f2330aa8f5"
+
+[[files]]
 file = "defaultconfigs/oculus.properties"
 hash = "9d632b311f61bcf025665ccdf5c2cf6aeb586d3f79cf67a0ad94a62167f2bd98"
 
@@ -91,6 +95,10 @@ hash = "cb85812b988d69a0fa5a1488a95cc62c8e1878f10c4b64984164388ba9de4223"
 [[files]]
 file = "journeymap/config/5.9/journeymap.minimap2.config"
 hash = "a9bbf22917d1e31f2020d7526748a6582781fce70c1e0a32281b6f2c37178a0b"
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.waypoint.config"
+hash = "dce81bcec3605acedce801b5679af65c5fc879a1e148e7616fef694869d1fde8"
 
 [[files]]
 file = "journeymap/server/5.9/journeymap.server.default.config"
@@ -234,7 +242,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "b86ad46987442728e6a82f9966c475e3d9cd93b95a2532aa031c479621ba285e"
+hash = "5db3c5f606f4ccbd6bfd1b1bc101c0101c90de41ac267ef873176338c0f90ed4"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -249,6 +257,31 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+metafile = true
+
+[[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "4bf55aa51f09c03d194781a280d0676394c897a4334f0ae3eab358e0851e39d9"
+metafile = true
+
+[[files]]
+file = "mods/ars-artifice.pw.toml"
+hash = "14c5ad8a417c1f54f7f3e13578b57520250b3c6bd4113eb015874ed27b2ed636"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "849c136f0dfe59bc4eca4e9776e36e8fb334064ccc81d47ecd3044733aeea5a8"
+metafile = true
+
+[[files]]
+file = "mods/ars-fauna.pw.toml"
+hash = "66a6af572422a8c3b587f4f779527cd0451ac74632d4f064a75efebe4d333dbc"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "6aae8979aba734f803c3811e154f2ecbbdce88dfe6bb8a84b07ab864a7fd837d"
 metafile = true
 
 [[files]]
@@ -497,8 +530,14 @@ hash = "b99b30e7ee2bc980b5efa7c5ae5e6563f2f629917805bd5501139b371e0adfad"
 metafile = true
 
 [[files]]
-file = "mods/oculus-mc1.20.1-1.7.0.jar"
-hash = "608e71a2aa6ac01b1f5459ae42c4194a7666805a0470a41781d453bb64d86086"
+file = "mods/oculus.pw.toml"
+hash = "9ea82f63231ce65e09ed32bad17b9638e4a9c1d1d3a9241aafc8dadc50e3ce95"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3cf8b0b943ef4e88b788d86284f634d7f3a252b642ac0c5b41c7ef2ff548238f"
+metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
@@ -566,6 +605,11 @@ hash = "1fcb1bf91f4979cce47e56392cf9e3d30806bc0ff8aedc92b461272ecac8f8ca"
 metafile = true
 
 [[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
+metafile = true
+
+[[files]]
 file = "mods/treechop.pw.toml"
 hash = "9b09aa0056d02ee5d529009e392af5412536bcb4b832ab9bc907d9135b1e00ec"
 metafile = true
@@ -618,6 +662,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "0bf0da1a80915da23e6b4d63803ca54cfb05e5750f31da9db02c915ff18a3ea4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shaders.pw.toml"
+hash = "8d704c002b4123110a678f448298e6d6a5f3aaec5ab315c7f812e721dfd659fa"
 metafile = true
 
 [[files]]

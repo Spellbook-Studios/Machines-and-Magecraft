@@ -10,6 +10,7 @@ if __name__ == "__main__":
         "2. Visuals/",
         "3. Worldgen & Exploration/",
         "4. Technology/",
+        "5. Magic/",
         "8. QOL/",
         "9. Packwiz-Files/",
     ]
