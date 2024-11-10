@@ -34,7 +34,7 @@ hash = "4ede161fa855f1ccd8bc2e2a8edfbfbf2d7f65908dc1a0b944ea32a8e70962c7"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "706e9a290ed1559447d9dd344b55cc70afadf46e2ff944207ac6c74bb3d1bfcd"
+hash = "6501efb1cff33a3c424bf7b3cfbec138cb8237e9f379c3eab6e0a8e809109367"
 
 [[files]]
 file = "config/fancymenu/customization/mm_main_menu.txt"
@@ -242,7 +242,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "5db3c5f606f4ccbd6bfd1b1bc101c0101c90de41ac267ef873176338c0f90ed4"
+hash = "e8297d0e828717745d1f17022a66eb0da144bf85c6351ed75a7e90c99af915d9"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -662,11 +662,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "0bf0da1a80915da23e6b4d63803ca54cfb05e5750f31da9db02c915ff18a3ea4"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bliss-shaders.pw.toml"
-hash = "8d704c002b4123110a678f448298e6d6a5f3aaec5ab315c7f812e721dfd659fa"
 metafile = true
 
 [[files]]

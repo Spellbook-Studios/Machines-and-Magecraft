@@ -152,7 +152,7 @@ element {
   anchor_point = top-centered
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} / 3","decimal":"false"}}
   advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} * 0.35","decimal":"false"}}
-  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} * 0.35 * 0.22916,"decimal":"false"}}
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} * 0.35 * 0.22916","decimal":"false"}}
   x = -168
   y = 11
   width = 50
