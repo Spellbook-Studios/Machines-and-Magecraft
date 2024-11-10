@@ -246,7 +246,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "311d208319a8dd78aab305bee00a05bbe15ef97921aef5a9935fae70cfcf7452"
+hash = "60a70609d3ae2649cd29057e0f52819334f5feffb79861cfb51a2bd47e2965da"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -476,11 +476,6 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
-metafile = true
-
-[[files]]
-file = "mods/just-zoom.pw.toml"
-hash = "e60b6bd62c31028a2555f06f5324004683d59d5dbee0697940075d9c89f7c6ea"
 metafile = true
 
 [[files]]
