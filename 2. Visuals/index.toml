@@ -6,22 +6,22 @@ hash = "9d632b311f61bcf025665ccdf5c2cf6aeb586d3f79cf67a0ad94a62167f2bd98"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c97e8587e3659228a57e6070e9b07d6768f0c8e6ee5a7e095b27c3b8152fe87e"
+hash = "adac5112deef8a756dc387b4f4936518f99dd879544fa34f59b2a74e930fd991"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
+hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
 metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "a49da0eb6aebdcfbd6d3436aaeb23bca3fb47f2c7100adaafe625b929f68013b"
+hash = "355be694ecb0d3e8ee1e75e31f8a0e9bf00ef853896942f688bcbef371cfea1d"
 metafile = true
 
 [[files]]
@@ -31,12 +31,12 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "75f085526d31557ee2f5f3d8d449c92a1e354775c4c6b50f140caf559f7afe0a"
+hash = "8fe913e001be5977c66f6e9b240210f2fad1945709876890bc4ee0f107e285d6"
 metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "fe5aef6fdb17f75035a21bab5237af591aaf36c8a03b4b947d64507ce49c71be"
+hash = "f330c14d7aeb826a28fc934aef71d0800d7ed297212ef31f1c8ba6715e0f0429"
 metafile = true
 
 [[files]]
@@ -50,26 +50,21 @@ hash = "0d48dec6e4adc2e7d683208cac4298bc22979fc8a354ae560cf10870e9a86d38"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "41fbddad14b67a342e35eb7d2c96cfb555014c0f9c0e1e2866a3d2516a33c971"
+hash = "eeeb239a86da1f3b9fdcd915ab2d488ee5f548bdc0942926e2d5d5f12b34c6b9"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "9ed342e0d8a2200d2a5c01826dba51b70433ad2c0e998fda893b5fa2911c2516"
+hash = "d222003558c856ef20e0865b26d03f92d1a6015bc6c6d637169bdbbfdbafcf3c"
 metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "49a8c0ebf497e1d111da614f0f6eb09336ef804cfb6340a8da00098aac79ca10"
+hash = "f3db7777070e2f15e2c01b0be03f42d9a00c254aa63113244f8b5e84c976208a"
 metafile = true

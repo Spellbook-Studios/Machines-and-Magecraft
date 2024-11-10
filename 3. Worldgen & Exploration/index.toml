@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "c443c44ce7cbc0815b482a924d9ce7b60829f15c0004a7feea942290dd395558"
+hash = "4832575af4fab2b691cc82c106a4a2e4da4136eab77d7360bc3b1250fc6f1656"
 metafile = true
 
 [[files]]
@@ -52,37 +52,37 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "81d06b76e9cb7cb1e0c8f69724055a24ec75291c67d32a5740bd8bafd6ba7940"
+hash = "b99b30e7ee2bc980b5efa7c5ae5e6563f2f629917805bd5501139b371e0adfad"
 metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "17e1109aba6b563b310fc0659f0c75cd915a03b5964f2336af331ca44ad547e7"
+hash = "ce0fde07ed8f70f9eb4f17e0fbc6002c47e2b11be54e3633d0a5c82ce043e9de"
 metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "e1caca0263b55a7d569ffa3db7c760001c489ac8710808e6b55a05400536455b"
+hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
+hash = "4d0b892ca8d67cb233f3d3be816553da4ecfa820519a1c55ce5efa9061fcf662"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+hash = "55cab45f4fc9ef0b382ac8ee1f7680ae1bd42832e47ae4b4cf56ce6bec7a96fe"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
+hash = "c7303b109577a683aef185c43912e4e9194397ddd40c562880468937136af0af"
 metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "a719d6fcc4a2eacbff8f2d0f0fde986325971dc080df74eb308ed468faba0e88"
+hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "896b09e7166d70f08e089862ad5eb8dbc8cfed02608f2c478587dbea191aadf2"
+hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
 
 [[files]]

@@ -29,17 +29,17 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "82cd10f066c07d118ea50c9b7a16496448ce519e687dd25b4cddd4a0f105057e"
+hash = "d50315f5c1781a9fb2c6019f18a03b5741837c18b577db7d52394f894a485317"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "97a06e0cdf6afede0564722397b87cbc584c37fce87595e84a1e4474f755519f"
+hash = "3dbc9206585bb9a4fb3f6af39672f335e57b5e5f581524c429f014240e2b44b3"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "6a10bb0d3a1204a587857475ecf6890ce573132d83f1bae05e04870781349898"
+hash = "15781779a01a0a867d0a5451c0006e0d1ac23095b4cba7cf9eb678bdeb8341ba"
 metafile = true
 
 [[files]]
@@ -48,13 +48,18 @@ hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "6729c183fd64484333f34e05e2459c537535109bdc2bd585c6f532f32a05435f"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
-hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
+hash = "833b9a6f41d921a5df1af145082b2a731401f70bac7299bd591b2204a98146ca"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "84e3d8b611426891356e627e2ac68b2cbcf199a4c76f34b6528a7899a8b35c7e"
+hash = "e53309f3e24377300fc30a6785f5db1ad51e4e71911ba774f484eb80f2db2e68"
 metafile = true
 
 [[files]]

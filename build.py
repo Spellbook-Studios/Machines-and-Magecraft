@@ -1,10 +1,18 @@
-import os
-import utils
-import shutil
 import filecmp
+import os
+import shutil
+
+import utils
 
 if __name__ == "__main__":
-    known_layers = ["1. Base and Optimizations/", "2. Visuals/", "3. Worldgen & Exploration/", "4. Technology/", "8. QOL/", "9. Packwiz-Files/"]
+    known_layers = [
+        "1. Base and Optimizations/",
+        "2. Visuals/",
+        "3. Worldgen & Exploration/",
+        "4. Technology/",
+        "8. QOL/",
+        "9. Packwiz-Files/",
+    ]
     build_dir_path = "packwiz-build/"
 
     # Find all the files we want to add
@@ -16,7 +24,7 @@ if __name__ == "__main__":
                 found_files[file.name] = file
             else:
                 found_files[file.name] = file
-    
+
     # Read build cache
     build_cached_files = utils.list_files_in_dir(build_dir_path)
     build_cache: dict[utils.FoundFile] = {}
@@ -27,7 +35,7 @@ if __name__ == "__main__":
     print("Creatinb build dir:")
     for file in found_files.values():
         if file.name in build_cache.keys():
-            if(filecmp.cmp(file.path, build_cache[file.name].path, shallow=True)):
+            if filecmp.cmp(file.path, build_cache[file.name].path, shallow=True):
                 build_cache.pop(file.name)
                 continue
 
@@ -43,7 +51,8 @@ if __name__ == "__main__":
 
     # Remove old cached files
     for old_cached_file in build_cache.values():
-        if old_cached_file.name == "modlist.txt": continue
+        if old_cached_file.name == "modlist.txt":
+            continue
         print(" Removing file: " + old_cached_file.name)
         os.remove(old_cached_file.path)
 
