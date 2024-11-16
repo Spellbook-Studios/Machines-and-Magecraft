@@ -1,6 +1,6 @@
 name = "EasyZoom"
 filename = "easyzoom-1.0.1-forge-1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ECUnGwSD/versions/cfZ5rfnH/easyzoom-1.0.1-forge-1.20.1.jar"
