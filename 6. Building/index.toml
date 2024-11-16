@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "dee9cfcb4d34ec936828ba5d1ca8c0be5de01678e58cb6105b79603b876a215a"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "915cea8024c03abff94e4c1675a0af8368cdb7fa9ddf54b3aa1a4b68a5a736ed"
+metafile = true

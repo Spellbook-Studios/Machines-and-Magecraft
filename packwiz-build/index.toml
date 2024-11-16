@@ -246,7 +246,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "df462d568430363da0b12aaa37145f7f452a1cabfe35e71f64676fc0749e1983"
+hash = "a35f6e25cd19a51ed660a5127af1eb570706af2a381254a8f18f7e88e4033667"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -469,6 +469,11 @@ hash = "6729c183fd64484333f34e05e2459c537535109bdc2bd585c6f532f32a05435f"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c143570dd698cec067078d8e8b66dd9efc231c513712dca8b2b1673aebc7af48"
 metafile = true
@@ -564,6 +569,11 @@ hash = "6c9e9d481d2a0350462ce034407659cae4a0bdec3c1df46ab38763d8cf2d916c"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "dee9cfcb4d34ec936828ba5d1ca8c0be5de01678e58cb6105b79603b876a215a"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
@@ -591,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "ce0fde07ed8f70f9eb4f17e0fbc6002c47e2b11be54e3633d0a5c82ce043e9de"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
@@ -636,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/sparsestructuresreforged.pw.toml"
 hash = "7cb168123becd83e66c2e894c97382b907b9813397e58aa2844686fb02d8bd50"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "915cea8024c03abff94e4c1675a0af8368cdb7fa9ddf54b3aa1a4b68a5a736ed"
 metafile = true
 
 [[files]]
