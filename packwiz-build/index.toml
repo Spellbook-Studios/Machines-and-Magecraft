@@ -246,7 +246,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "99fca5a9b83f9d4e1142b76951fb6d0f45c1f967403d1e0583380091936ae80b"
+hash = "801e0a66c799f4ca42575b197a89682d175be544dce9d6a33bf6919023bb8aac"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -386,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "355be694ecb0d3e8ee1e75e31f8a0e9bf00ef853896942f688bcbef371cfea1d"
+metafile = true
+
+[[files]]
+file = "mods/easyzoom.pw.toml"
+hash = "dc9dd333c5f415ee703b0a73853bca828a65d85c4fb9d315a7a3b133a8bc711d"
 metafile = true
 
 [[files]]

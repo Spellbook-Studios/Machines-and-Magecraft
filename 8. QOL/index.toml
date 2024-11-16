@@ -33,6 +33,11 @@ hash = "d50315f5c1781a9fb2c6019f18a03b5741837c18b577db7d52394f894a485317"
 metafile = true
 
 [[files]]
+file = "mods/easyzoom.pw.toml"
+hash = "dc9dd333c5f415ee703b0a73853bca828a65d85c4fb9d315a7a3b133a8bc711d"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "3dbc9206585bb9a4fb3f6af39672f335e57b5e5f581524c429f014240e2b44b3"
 metafile = true
