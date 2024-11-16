@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "0fd0d294ce7414d112dbfd66ff6ee4e7d06c1c8650d0d521a8d39669604b56d8"
+hash = "6e72f1af6c31a2afeb112f6a7737c37a55ae9c1b076f4ccadbe544849499aa4f"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "56b356fd753d4d9debdb433f57e4b390d457a776ad9413d1e9008c76b0163908"
+hash = "7ed0d626f961594121082d204ca2c1915731bf9b4d3f050dccd18b7a66e07930"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6909ba1a476586213c2b53de5cf740304186a18f509cf5caf920108b5a695e52"
+hash = "c143570dd698cec067078d8e8b66dd9efc231c513712dca8b2b1673aebc7af48"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
+hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "885b3a412f67ae39c7cddd9fe878e82e055ebb9bc7246255987cceb66f336ab3"
+hash = "6c9e9d481d2a0350462ce034407659cae4a0bdec3c1df46ab38763d8cf2d916c"
 metafile = true
 
 [[files]]

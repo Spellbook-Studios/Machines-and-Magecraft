@@ -28,6 +28,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "4be7964613619e1f369bed364930bd308f6981b5d781130077ba8a1b7f30c1a6"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "d50315f5c1781a9fb2c6019f18a03b5741837c18b577db7d52394f894a485317"
 metafile = true
