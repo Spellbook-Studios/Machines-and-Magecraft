@@ -246,7 +246,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "3ea5a793d6c5d3e157e526f3e26de842a1bc800ee94c733d4949cf9fccaa0098"
+hash = "df462d568430363da0b12aaa37145f7f452a1cabfe35e71f64676fc0749e1983"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -394,6 +394,11 @@ hash = "355be694ecb0d3e8ee1e75e31f8a0e9bf00ef853896942f688bcbef371cfea1d"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
+metafile = true
+
+[[files]]
 file = "mods/easyzoom.pw.toml"
 hash = "dc9dd333c5f415ee703b0a73853bca828a65d85c4fb9d315a7a3b133a8bc711d"
 metafile = true
@@ -434,6 +439,11 @@ hash = "7ed0d626f961594121082d204ca2c1915731bf9b4d3f050dccd18b7a66e07930"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "8fe913e001be5977c66f6e9b240210f2fad1945709876890bc4ee0f107e285d6"
 metafile = true
@@ -460,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6909ba1a476586213c2b53de5cf740304186a18f509cf5caf920108b5a695e52"
+hash = "c143570dd698cec067078d8e8b66dd9efc231c513712dca8b2b1673aebc7af48"
 metafile = true
 
 [[files]]
@@ -624,6 +634,11 @@ hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructuresreforged.pw.toml"
+hash = "7cb168123becd83e66c2e894c97382b907b9813397e58aa2844686fb02d8bd50"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
 metafile = true
@@ -656,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "9b09aa0056d02ee5d529009e392af5412536bcb4b832ab9bc907d9135b1e00ec"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "a70e61e407780957b50dc0c09e1ee711267f7c3fcecb3dc4c38b102f1797f184"
 metafile = true
 
 [[files]]

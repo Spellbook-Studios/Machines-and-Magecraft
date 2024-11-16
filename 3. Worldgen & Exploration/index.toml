@@ -36,6 +36,16 @@ hash = "85138dbb3dfd5c0ae834310c42aa7c880d00fa1139c97f2bb3b324d7c916dbd5"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
 metafile = true
@@ -86,6 +96,11 @@ hash = "c7303b109577a683aef185c43912e4e9194397ddd40c562880468937136af0af"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructuresreforged.pw.toml"
+hash = "74317333f3add3a1cb411d1bab46c3fdba6b2ac9df6e953b582af9e0dc1932d4"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
 metafile = true
@@ -98,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/tetra.pw.toml"
 hash = "1ea93de5929b045f8afd5acb78bb73da08f2e75315d519717b1c3e9397a17c38"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "e1a4ba8492831192c38c8048b9a3ae872b6b7cb6a6c3a204e68c02056ab81af9"
 metafile = true
 
 [[files]]
