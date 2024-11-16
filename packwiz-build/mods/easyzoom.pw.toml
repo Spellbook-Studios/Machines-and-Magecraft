@@ -1,0 +1,13 @@
+name = "EasyZoom"
+filename = "easyzoom-1.0.1-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ECUnGwSD/versions/cfZ5rfnH/easyzoom-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "68a0e72a28e382f9aab595949d15b09bcbf337ae01ae7d78a35ee4a3c8b155a6de525ad79314056b10bd02eea6709b876ae0e6dcd43bb3fd5b555a381c823e49"
+
+[update]
+[update.modrinth]
+mod-id = "ECUnGwSD"
+version = "cfZ5rfnH"

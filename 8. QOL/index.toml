@@ -28,8 +28,18 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "4be7964613619e1f369bed364930bd308f6981b5d781130077ba8a1b7f30c1a6"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "d50315f5c1781a9fb2c6019f18a03b5741837c18b577db7d52394f894a485317"
+metafile = true
+
+[[files]]
+file = "mods/easyzoom.pw.toml"
+hash = "dc9dd333c5f415ee703b0a73853bca828a65d85c4fb9d315a7a3b133a8bc711d"
 metafile = true
 
 [[files]]
@@ -58,6 +68,11 @@ hash = "6729c183fd64484333f34e05e2459c537535109bdc2bd585c6f532f32a05435f"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "3a141de9aaa72a9a1717485701afcd75eb1f57830511e29fb0fd8ef0aa7a11bb"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "833b9a6f41d921a5df1af145082b2a731401f70bac7299bd591b2204a98146ca"
 metafile = true
@@ -70,6 +85,21 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "94aa69e3f800f454553aa7f80b8e28a4751d58487775100fb60ae16bbd799259"
 metafile = true
 
 [[files]]
