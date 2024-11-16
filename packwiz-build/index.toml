@@ -185,6 +185,10 @@ file = "kubejs/data/mm/recipes/drying_untanned_leather.json"
 hash = "f98336c72492a4914e312d1af2e2da17ba9054e92c5601bbeaf7a5adfbf0e316"
 
 [[files]]
+file = "kubejs/data/mm/recipes/smoked_untanned_leather.json"
+hash = "cc834cec34a24a61f2a464293658f57c783491a5e403e0974761a2c9f9c509ba"
+
+[[files]]
 file = "kubejs/data/sophisticatedbackpacks/recipes/backpack.json"
 hash = "48d845d4e628e3bbc606aa6acba75f58bcd27eb287f57602870d2488e7411b2c"
 
@@ -246,11 +250,16 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "a35f6e25cd19a51ed660a5127af1eb570706af2a381254a8f18f7e88e4033667"
+hash = "40da51b433d44c444d84e488534c1d1cea0fd58c71c7baefc2499420c16831af"
 
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "411c7f45960d3e5e5321ad7c4365a623bf881de361ed69359df2b01c5d8df76f"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "c52aab6767b8a08db1fa860cee2f8019d804b92b80fbe78f701fcd4b37d6ad7d"
 metafile = true
 
 [[files]]
@@ -304,6 +313,16 @@ hash = "54728d260dd32fba42550ef0e287af0bf00c239771f9a093bc6db2486fcdcaa7"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
 metafile = true
@@ -321,6 +340,16 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "1ba38e1558b064ee70588d7b61f7fe208b233af999b13c0cf03a11b628d05cb0"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
@@ -456,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "73731fbf0a731554608aaa9705f51036892f1fe92606a93594f689e7227a5056"
 metafile = true
 
 [[files]]
