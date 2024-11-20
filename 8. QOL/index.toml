@@ -1,16 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/treechop-common.toml"
+hash = "147f3b507ad6a3ea0941d66a5a12e7c9d47c9e6a214d6398d80a03f2330aa8f5"
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.fullmap.config"
+hash = "b12fd7ee513c56c1fd29ede4393d24fbf38916afc986c08a42eb1c9bb0b54ca3"
+
+[[files]]
 file = "journeymap/config/5.9/journeymap.minimap.config"
-hash = "2e3469bc3dc05409894c8d7927b420775c49f0ccfeb7e2b231587064cf9bec67"
+hash = "cb85812b988d69a0fa5a1488a95cc62c8e1878f10c4b64984164388ba9de4223"
 
 [[files]]
 file = "journeymap/config/5.9/journeymap.minimap2.config"
 hash = "a9bbf22917d1e31f2020d7526748a6582781fce70c1e0a32281b6f2c37178a0b"
 
 [[files]]
+file = "journeymap/config/5.9/journeymap.waypoint.config"
+hash = "dce81bcec3605acedce801b5679af65c5fc879a1e148e7616fef694869d1fde8"
+
+[[files]]
 file = "journeymap/server/5.9/journeymap.server.default.config"
-hash = "ee6220e89a65bb3823f78220f4a7e1cb8433bd10f8218cb1d4c9f4ae2c018865"
+hash = "7d95003e3d478b23b60d65523bf711f71ee1833720e74a46196cd1c08bfa37c6"
+
+[[files]]
+file = "kubejs/server_scripts/src/cleanup_emi.js"
+hash = "73c821f51da7de75a64fbd0d2735b34e307638f28a191d1510a431451b7af9b1"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -39,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/easyzoom.pw.toml"
-hash = "dc9dd333c5f415ee703b0a73853bca828a65d85c4fb9d315a7a3b133a8bc711d"
+hash = "f952a4a523d42d6d12606dac37ba1a53ad0680c384d45023d2cb7638ee80a4a7"
 metafile = true
 
 [[files]]
@@ -49,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "15781779a01a0a867d0a5451c0006e0d1ac23095b4cba7cf9eb678bdeb8341ba"
+hash = "b922bf1accaec299a669b1915a600a8cdaad3baadffa4b509633a83ad4c020a1"
 metafile = true
 
 [[files]]
@@ -64,22 +80,22 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6729c183fd64484333f34e05e2459c537535109bdc2bd585c6f532f32a05435f"
+hash = "f07f5771f51fc0d9075edaa8a58f211fb2935bf79fbc3d73db8dd0415bd17447"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "3a141de9aaa72a9a1717485701afcd75eb1f57830511e29fb0fd8ef0aa7a11bb"
+hash = "5b856225d1705d8a6b237536d1226b2b8df83698e5790d8613237d52a24a6a15"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "833b9a6f41d921a5df1af145082b2a731401f70bac7299bd591b2204a98146ca"
+hash = "7f6c0ca162ebadc819fa2fe5d925daec6144d3480a6d75c769a72b8b46b78f9f"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e53309f3e24377300fc30a6785f5db1ad51e4e71911ba774f484eb80f2db2e68"
+hash = "134c7169b2cf93d04bee9cc926a8e340807c9f067ea6154aff1e8263a02e9278"
 metafile = true
 
 [[files]]

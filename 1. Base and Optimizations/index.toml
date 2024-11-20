@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/config/client.properties"
+hash = "056e4f7abd0c95fa97aaa9fb3098faa93477934beb0c547c464020cd31e1b3a4"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "1351992a9ee498891a5d6868bd3b4f83928f4be221956d270b47547e27e9e49d"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "69d451003d550ba269e80e04047a15ca1eb72a5972ad8c07fdb758e0a5187872"
+
+[[files]]
+file = "kubejs/startup_scripts/mod_name.js"
+hash = "919652c742e72d775c97ad6fec14d8e3f91239f64d7d7a121f8eb429ad31ea60"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
@@ -43,16 +59,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c143570dd698cec067078d8e8b66dd9efc231c513712dca8b2b1673aebc7af48"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-create.pw.toml"
-hash = "6b7deeb35ea6d8ae986a7a7ef7ee8c7b47bc4279be0b53fc873a335dbe658a6d"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-thermal.pw.toml"
-hash = "d53245adba35fc8fb414f232321a284da8edd03e5ea5ec8ab2001eba14d25f1f"
 metafile = true
 
 [[files]]

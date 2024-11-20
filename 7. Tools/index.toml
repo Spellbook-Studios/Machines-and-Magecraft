@@ -1,0 +1,89 @@
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/backpack.json"
+hash = "48d845d4e628e3bbc606aa6acba75f58bcd27eb287f57602870d2488e7411b2c"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/copper_backpack.json"
+hash = "0c5ccd6e7d590cdb2d6ba3f4fd5160b17e5fdfe909422d23abb02687b4925d9f"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/diamond_backpack.json"
+hash = "fa15d7395d1b621cfdaed8ecc830479f6193cbaddf7807b7f6e6250a7b5bdc17"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/gold_backpack.json"
+hash = "00204bdb09a2ff61f316f03896a4de93c07f31163bb31d7ee09be9aadc74a92a"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/iron_backpack.json"
+hash = "5ed892dac00ef16a4b952332fc50399924231a3709c7d62a7d862deb8d865404"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/iron_backpack_from_copper.json"
+hash = "77b00f76e17f49954e331e99ec73b887b8d0855df506c38bcaacb70f3927388c"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/upgrade_base.json"
+hash = "bf05d1e5d08e4001a74f5491439ed154a83452a73b688fbc6c2fb43344211ba9"
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "4832575af4fab2b691cc82c106a4a2e4da4136eab77d7360bc3b1250fc6f1656"
+metafile = true
+
+[[files]]
+file = "mods/crafting-station.pw.toml"
+hash = "17aa2978fec33ca4e929d57fad338fb90c91a155ebf3b97c8bf67fad93c6b9b0"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "ab1b84d121c333006f03959abccb2f12d4dd0cb61c8fe753cea50318d814daca"
+metafile = true
+
+[[files]]
+file = "mods/iron-jetpacks.pw.toml"
+hash = "e4c9153e43a521144f13cbbb39ad1f6c25830539c824150a02c9346977ee3692"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "ce0fde07ed8f70f9eb4f17e0fbc6002c47e2b11be54e3633d0a5c82ce043e9de"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "63d134a901387e6df1f3f23e9835697371daed3c575d1746540587bdcb0cca26"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "7a96f25722d3e6538530cb128f0383a0ea754752146c00432fa8eb3f0c902385"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructuresreforged.pw.toml"
+hash = "7cb168123becd83e66c2e894c97382b907b9813397e58aa2844686fb02d8bd50"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "fd4f922cdf37e4b01f8b039d89d813c8caffe1052774071ca7ff107cd8e6364d"
+metafile = true
+
+[[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "95d60fd0a890b6b1087de0bc89079e1dd1276b61a9b1241857f3ea414a3592d2"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "4a8a42c4c7834873a5f64f0f4e07eb46056329b345a1b835d8ea0aff2390fc0e"
+metafile = true

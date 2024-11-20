@@ -1,12 +1,76 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/machines_magecraft_title_no_bg.png"
+hash = "63e9b532a172d80386ec492b5464a5dadb2345f14363fceb3eae2476368c2abd"
+
+[[files]]
+file = "config/fancymenu/assets/window_icon.icns"
+hash = "de0374a7beee81620a703253d900698c08f7c4dcefc19b5b06d432141dfee0fd"
+
+[[files]]
+file = "config/fancymenu/assets/window_icon_16.png"
+hash = "1958ff9ebb14341a5f84b8be94ab460ffbf8c82143f22fcfc2467419ec42e50d"
+
+[[files]]
+file = "config/fancymenu/assets/window_icon_32.png"
+hash = "ef6d7bdaa7478cbcdbfc3b7ccfa45f9fa31bcd53fb863c471dbb017afb6d32d4"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "4ede161fa855f1ccd8bc2e2a8edfbfbf2d7f65908dc1a0b944ea32a8e70962c7"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "6501efb1cff33a3c424bf7b3cfbec138cb8237e9f379c3eab6e0a8e809109367"
+
+[[files]]
+file = "config/fancymenu/customization/mm_main_menu.txt"
+hash = "19ed82a8e8189ab45607df5712b9cb4342caf65ef6644d88cd1cf834901c4ae0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "1428d99f4bcef066152a753db9e164b02402f83a670d7ae929e5f15efc181942"
+
+[[files]]
+file = "config/fancymenu/slideshows/loadingscreen/images/horshore-bend.png"
+hash = "b3275cdac50b6a422704732a9c2fc0372eec6dcfbf2119bf2660a8fa9bb1ae66"
+
+[[files]]
+file = "config/fancymenu/slideshows/loadingscreen/images/i-love-canyons.png"
+hash = "531cdb8b03672d3d45e3320f158dca33b48a5235b822632048feb36cebfe3453"
+
+[[files]]
+file = "config/fancymenu/slideshows/loadingscreen/images/jungle-lake.png"
+hash = "7cf6a126b40f23107f97540740c0f02cc36721d33fe5c5dbacb28647aad36ab2"
+
+[[files]]
+file = "config/fancymenu/slideshows/loadingscreen/images/night-flowers.png"
+hash = "f941f0ae05fa7f48a51e4e27e8733e3fe668acf48a3c9edab76cd6accf370089"
+
+[[files]]
+file = "config/fancymenu/slideshows/loadingscreen/properties.txt"
+hash = "3c1181488cde2a9ca4647dfee7282a0d4eff9b2c06a49b8e61e2dd1419352add"
+
+[[files]]
+file = "config/fancymenu/slideshows/mainmenu/images/machines-n-magecraft.png"
+hash = "47526e1d12a6f5f68925a732258d0764b5b9762eeaf8fb9df88e28c3dee127db"
+
+[[files]]
+file = "config/fancymenu/slideshows/mainmenu/images/pilligars-be-pillaging.png"
+hash = "12194279d85eca1c110c4e5ee1be31dcfc1fd33df134f497a4dd7e18e20d7898"
+
+[[files]]
+file = "config/fancymenu/slideshows/mainmenu/properties.txt"
+hash = "bdcad0f584f5a3899bdd635dde3473d9d00235a175ac9fc3d75ff90c25740df5"
+
+[[files]]
 file = "defaultconfigs/oculus.properties"
 hash = "9d632b311f61bcf025665ccdf5c2cf6aeb586d3f79cf67a0ad94a62167f2bd98"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "adac5112deef8a756dc387b4f4936518f99dd879544fa34f59b2a74e930fd991"
+hash = "6a0ef685b4c7021ba02a881fd2367699a1ebbe991104dc27529876134d37844f"
 metafile = true
 
 [[files]]
@@ -35,11 +99,6 @@ hash = "8fe913e001be5977c66f6e9b240210f2fad1945709876890bc4ee0f107e285d6"
 metafile = true
 
 [[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "f330c14d7aeb826a28fc934aef71d0800d7ed297212ef31f1c8ba6715e0f0429"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
 metafile = true
@@ -50,13 +109,18 @@ hash = "0d48dec6e4adc2e7d683208cac4298bc22979fc8a354ae560cf10870e9a86d38"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "9ea82f63231ce65e09ed32bad17b9638e4a9c1d1d3a9241aafc8dadc50e3ce95"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "eeeb239a86da1f3b9fdcd915ab2d488ee5f548bdc0942926e2d5d5f12b34c6b9"
+hash = "95b28fe2091b763d5c4338830af58de79efe17d754bd7e961a3cb9657ac4afdb"
 metafile = true
 
 [[files]]
@@ -66,5 +130,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "f3db7777070e2f15e2c01b0be03f42d9a00c254aa63113244f8b5e84c976208a"
+hash = "f9b7bb3dde8853ec239377288d0bf2b8dcc323aba62d90122b4e33f455b56745"
 metafile = true

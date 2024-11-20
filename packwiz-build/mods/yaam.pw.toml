@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/avq72s6C/versions/e45HPg3a/YAAM-1.0.3b-forge.jar"
-hash-format = "sha1"
-hash = "74e6cd5ca653e924dbf94ab10db63f6cad04e32c"
+hash-format = "sha512"
+hash = "3059f9a410259c29dde5d865b383f8bae9ede2cc33c94d7d6d694e018611869070a49066926f1359b6693c591945ee9ca22513c4dff4eba2f1086fab947054a8"
 
 [update]
 [update.modrinth]

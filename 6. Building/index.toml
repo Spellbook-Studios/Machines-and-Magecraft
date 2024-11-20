@@ -6,13 +6,23 @@ hash = "c52aab6767b8a08db1fa860cee2f8019d804b92b80fbe78f701fcd4b37d6ad7d"
 metafile = true
 
 [[files]]
+file = "mods/functional-gregtech-drawers.pw.toml"
+hash = "d8c5c97baa7ba0c68b9fe5eba877e9795de683b683704af8c046f48680691484"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "6f36277fa2c310a56a47bc95007cbf9ea591959add14c1a19308eec339da3d2a"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dee9cfcb4d34ec936828ba5d1ca8c0be5de01678e58cb6105b79603b876a215a"
+hash = "64b02bbce62c3545d07c622817f48918a3acbca18b9e48fa1c64f5b70fc9ed9d"
 metafile = true
 
 [[files]]
@@ -22,5 +32,10 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "915cea8024c03abff94e4c1675a0af8368cdb7fa9ddf54b3aa1a4b68a5a736ed"
+hash = "0bb0deeacd0d7caa27db8b993bf5489cbab4d38981d9b38dae986468b24797bb"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
 metafile = true
