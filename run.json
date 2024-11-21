@@ -1,1 +1,1 @@
-[{"name": "Build", "cmd": "python build.py"}]
+[{"name": "Build", "cmd": "python build.py"}, {"name": "Update", "cmd": "python update.py"}]

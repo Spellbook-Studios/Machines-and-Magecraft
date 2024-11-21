@@ -5,7 +5,7 @@ import shutil
 import utils
 from utils import known_layers, build_dir_path
 
-if __name__ == "__main__":
+def main():
     # Find all the files we want to add
     found_files: dict[str, utils.FoundFile] = {}
     for layer_path in known_layers:
@@ -50,3 +50,6 @@ if __name__ == "__main__":
     os.system("cd packwiz-build && packwiz refresh > /dev/null")
     os.system("cd packwiz-build && packwiz list -v > modlist.txt")
     os.system("cd packwiz-build && packwiz refresh")
+
+if __name__ == "__main__":
+    main()

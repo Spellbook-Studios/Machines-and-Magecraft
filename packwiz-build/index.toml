@@ -226,7 +226,7 @@ hash = "b6c46299750a793eff4d16b38ea1da16bb1fbb907af38c1ba637d27a73a2edd9"
 
 [[files]]
 file = "modlist.txt"
-hash = "897b232ae1f238571ec240dd989ccb264511b65255e61fe7f267576284ccf529"
+hash = "af182b4283e8a8f79a53dd7cab4467509b2951ccbc0c67116d1cc2f574d860f4"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "64b02bbce62c3545d07c622817f48918a3acbca18b9e48fa1c64f5b70fc9ed9d"
+hash = "7f7a7b1b5dced638d216e7fe96e9c0bcb61fedc8bcba3eb1059570174b5f3c76"
 metafile = true
 
 [[files]]

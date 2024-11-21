@@ -16,6 +16,17 @@ def list_files_in_dir(dir) -> list[FoundFile]:
     
     return out
 
+def yes_no(prompt):
+    yes = ["y", "yes", "yea", "cool", "ok"]
+    no = ["n", "no", "hell no", "noo", "nno", "nein"]
+
+    while True:
+        response = input(prompt + " [y/n]")
+        if response in yes:
+            return True
+        elif response in no:
+            return False
+
 known_layers = [
         "1. Base and Optimizations/",
         "2. Visuals/",
