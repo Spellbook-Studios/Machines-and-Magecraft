@@ -3,21 +3,9 @@ import os
 import shutil
 
 import utils
+from utils import known_layers, build_dir_path
 
 if __name__ == "__main__":
-    known_layers = [
-        "1. Base and Optimizations/",
-        "2. Visuals/",
-        "3. Worldgen & Exploration/",
-        "4. Technology/",
-        "5. Magic/",
-        "6. Building/",
-        "7. Tools/",
-        "8. QOL/",
-        "9. Packwiz-Files/",
-    ]
-    build_dir_path = "packwiz-build/"
-
     # Find all the files we want to add
     found_files: dict[str, utils.FoundFile] = {}
     for layer_path in known_layers:

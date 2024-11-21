@@ -15,3 +15,17 @@ def list_files_in_dir(dir) -> list[FoundFile]:
             out.append(FoundFile(file_name, file_path))
     
     return out
+
+known_layers = [
+        "1. Base and Optimizations/",
+        "2. Visuals/",
+        "3. Worldgen & Exploration/",
+        "4. Technology/",
+        "5. Magic/",
+        "6. Building/",
+        "7. Tools/",
+        "8. QOL/",
+        "9. Packwiz-Files/",
+    ]
+build_dir_path = "packwiz-build/"
+
